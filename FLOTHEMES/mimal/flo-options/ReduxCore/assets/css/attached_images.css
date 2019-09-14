@@ -1,0 +1,210 @@
+#post_images_container ul li.image {width: 80px; height: 80px;}
+
+#postimagediv img{border:1px solid #d5d5d5;max-width:100%}
+ .inside{margin:0;padding:0}
+ .inside .add_product_images{padding:0 9px}
+ .inside #post_images_container{padding:0 0 0 9px}
+ .inside #post_images_container ul{overflow:hidden;margin:0;padding:0}
+ .inside #post_images_container ul li.image,
+ .inside #post_images_container ul li.add,
+ .inside #post_images_container ul li.wc-metabox-sortable-placeholder{
+	width:80px;
+	height:80px;
+	overflow:hidden;
+	float:left;
+	cursor:move;
+	border:1px solid #d5d5d5;
+	margin:9px 9px 0 0;
+	background:#f7f7f7;
+	-webkit-border-radius:2px;
+	-moz-border-radius:2px;
+	border-radius:2px;position:relative;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box
+}
+ .inside #post_images_container ul li.image img,
+ .inside #post_images_container ul li.add img,
+ .inside #post_images_container ul li.wc-metabox-sortable-placeholder img{
+	width:100%;height:auto;display:block
+}
+ .inside #post_images_container ul li.wc-metabox-sortable-placeholder{
+	border:4px dashed #ddd;background:#f7f7f7;
+}
+ .inside #post_images_container ul ul.actions{
+	position:absolute;top:0;right:0;padding:2px;display:none
+
+}
+ .inside #post_images_container ul ul.actions li{
+	background:#eee;border:1px solid #ddd;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;padding:1px;float:right;margin:0 0 0 2px
+}
+ .inside #post_images_container ul ul.actions li a{
+	width:10px;padding:10px 0 0 0;margin:0;height:0; /*display:block;*/ overflow:hidden; color: #529FB6;
+}
+ .inside #post_images_container ul ul.actions li a.delete{
+	/*background:url(../images/delete_10.png) no-repeat top left*/
+}
+ .inside #post_images_container ul li:hover ul.actions{display:block}
+
+#lala-post-images div.inside{padding:0px 5px;}
+.inside #post_images_container {
+	padding: 0 0 0 1px;
+}
+.add_slideshow_images_link{
+    font-size:18px;
+    margin-bottom: 5px;
+    text-decoration: none
+}
+.media-button_clean{
+    float: right;
+}
+
+/* Slideshow styles */
+.inside #post_images_container ul ul.actions li a.dashicons{ padding-top: 0px; width: 20px; height: 20px; }
+.floslideshow-meta-container { cursor: auto; }
+.add_slideshow_images{ font-size: 24px; }
+.inside .flo-slideshow-images#post_images_container ul li.image{ width: 120px; height: 120px; }
+.title-position-value{ width: 150px;  display: inline-block;}
+.cust_fields{
+    width: 40px!important;
+    text-align: center;
+    margin-left: 19px!important;
+}
+/*.mini:before{*/
+    /*content:"\f333";*/
+/*}*/
+.customize-control .add-on {
+    width: auto;
+    display: inline-block;
+    min-width: 16px;
+    padding: 3px 1px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: center;
+    text-shadow: 0 1px 0 #ffffff;
+    background-color: #eeeeee;
+    border: 1px solid #cccccc;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    float: left;
+    margin-right: -30px;
+    /*margin-top: 29px; */
+}
+[class*="el-icon-"] {
+    font-family: 'Elusive-Icons';
+     speak: none;
+     font-style: normal;
+     font-weight: normal;
+     font-variant: normal;
+     text-transform: none;
+     line-height: 1;
+     -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* wp 3.8 font icons */
+
+#adminmenu .menu-icon-slideshow div.wp-menu-image:before {
+	content: "\f181";
+}
+#adminmenu .menu-icon-landingpage div.wp-menu-image:before {
+	content: "\f115";
+}
+#adminmenu .menu-icon-testimonial div.wp-menu-image:before {
+	content: "\f122";
+}
+#adminmenu .menu-icon-video div.wp-menu-image:before {
+	content: "\f236";
+}
+#adminmenu .menu-icon-gallery div.wp-menu-image:before {
+	content: "\f161";
+}
+
+/*add specific color for our widgets*/
+[id*=_cosmo_] .widget-top .widget-title{
+    /* background: rgb(234,234,234); */ /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(234,234,234,1) 0%, rgba(221,221,221,1) 100%); /* FF3.6+ */
+    /* background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(234,234,234,1)), color-stop(100%,rgba(221,221,221,1))); */ /* Chrome,Safari4+ */
+    /* background: -webkit-linear-gradient(top,  rgba(234,234,234,1) 0%,rgba(221,221,221,1) 100%); */ /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(234,234,234,1) 0%,rgba(221,221,221,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(234,234,234,1) 0%,rgba(221,221,221,1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(234,234,234,1) 0%,rgba(221,221,221,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eaeaea', endColorstr='#dddddd',GradientType=0 ); /* IE6-9 */
+}
+
+.gallery-image-block  .add_product_images {
+    float: left;
+    width: 50%;
+    padding: 0px;
+}
+
+.gallery-image-block  .edit-actions {
+    float: right;
+    width: 50%;
+    max-width: 50%;
+    text-align: right;
+}
+.inside #post_images_container ul.delete_image_logo{
+    position: absolute;
+    margin-left: 120px;
+    margin-top: -76px;
+}
+.mce-floatpanel .mce-container-body div:first-child{
+    display: none;
+}
+
+
+
+.gallery-image-block .sub-images.actions {
+    padding: 20px 25px 0px 22px;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.gallery-image-block  .add_product_images {
+    float: left;
+    width: 50%;
+    padding: 0px;
+}
+.wp-core-ui .button.reverse-img-btn{
+    margin-right: 10px;
+}
+
+.gallery-image-block  .edit-actions {
+    float: right;
+    width: 50%;
+    max-width: 50%;
+    text-align: right;
+}
+.inside #post_images_container ul.delete_image_logo{
+    position: absolute;
+    margin-left: 120px;
+    margin-top: -76px;
+}
+.mce-floatpanel .mce-container-body div:first-child{
+    /*display: none;*/
+}
+
+.media-frame a.ok_button{
+    position: absolute;
+    bottom: -10px;
+    right: 50px;
+    top:initial;
+}
+.media-frame a.ok_button .media-modal-icon::before{
+    content: none;
+}
+.wp-core-ui .ok_button .button.button-small{
+    width: 50px;
+    text-align: center;
+}
+.media-frame input[type=text], .media-frame textarea{
+    width: 80%;
+    margin-bottom: 0px;
+}
+.floslideshow-meta-table{
+    margin-top: -18px;
+    margin-left: 20px;
+}
+.inside #post_images_container {
+    padding: 18px 0px 30px 20px;
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <font id="theme-icons-font" horiz-adv-x="15.875">
+    <font-face font-family="theme-icons-font"
+      units-per-em="15.793" ascent="15.793"
+      descent="0" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="linkedin-01"
+      unicode="&#xE001;"
+      horiz-adv-x="15.875" d=" M3.595 14.077C3.595 13.132 2.908 12.37 1.77 12.37C0.686 12.371 0 13.132 0 14.077C0 15.047 0.711 15.785 1.811 15.785C2.908 15.786 3.572 15.047 3.595 14.077M0.086 11.02H3.478V0.002H0.086V11.02zM5.514 7.5C5.514 8.879 5.467 10.028 5.42 11.02H8.369L8.531 9.48H8.593C9.041 10.206 10.137 11.262 11.968 11.262C14.191 11.262 15.875 9.751 15.875 6.509V0.001H12.478V6.104C12.478 7.528 11.99 8.491 10.76 8.491C9.825 8.491 9.258 7.844 9.02 7.214C8.925 6.981 8.905 6.665 8.905 6.354V0H5.514V7.5z" />
+  </font>
+</defs>
+</svg>

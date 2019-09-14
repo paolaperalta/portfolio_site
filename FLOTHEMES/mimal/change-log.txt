@@ -1,0 +1,186 @@
+V 0.9
+
+Gallery in post size fix
+
+Grid View on mobile, fixed Open Post link
+
+Added links to the documentation posts inside the theme settings
+
+Restructured the theme's options settings
+
+===============================================================
+
+V 0.8
+
+Added new list view type - Clasic blog layout
+
+Added 4 new social icon fonts
+
+Fixed image distorted on blog posts in Safari
+
+Full width list view - Fixed the 'read more' click on mobile devices
+
+List view full width color and typography settings fixes
+
+List view content width - fixed the spacing on mobile devices in Safari
+
+List view content width - made it to use the same width and the image
+	width set in the theme options
+
+Adde option to remove date from galleries and blog posts
+
+Fix -  Category Drop Down Menu - Mobile Phone View when page title is missing
+
+Fix - Slideshow 'see more' button for mobile devices
+
+Top padding Fix for pages with slidehow on tablets on orientation change
+
+===============================================================
+
+V 0.7.7
+
+Added typography option for input placeholders
+
+Added option for the butons typography
+
+Fixed input styles for Firefox
+
+Fixed full width list layout on iPads
+
+Added the quick start wizard for the users who just installed the theme
+
+Redesigned the themes option page
+
+Added option search input, for backend options
+
+Fixed portrait images appearance on landscape mobile phones for the grid view galleries
+
+
+===============================================================
+
+V 0.7.6
+
+Added helper classes for ninja forms
+
+Updated the themes options top  bar
+
+Fixed typography settings for the heading inside the post/page content
+
+===============================================================
+
+V 0.7.5
+
+Added image hints to Mimal red options
+
+===============================================================
+
+V 0.7.4
+
+Fix for mimal red layout
+
+===============================================================
+
+V 0.7.3
+
+Fix Background Check plugin — now exception doesn't break all js
+
+Fix listing blog mobile issue
+
+Fix pagination empty button, fix mimal issues, Remove loader 
+from hero-slider
+
+===============================================================
+
+V 0.7.2
+
+Fixed "thank you message" from contact form
+
+===============================================================
+
+V 0.7.1
+
+Fixed an error that was showing an warning message.
+
+===============================================================
+
+V 0.7
+
+Responsive image function - if the original image is smaller than 
+the requested size, then we will use the original image size
+
+Fixed the mobile menu issue that occured in some situations.
+
+Fixed list vide content width layout for iPad
+
+Fixed general font typography option
+
+
+===============================================================
+V 0.6
+Added zendesk form in the dashboard
+
+Fixed slideshow title/sub_title typography
+
+Added Red stylekit
+
+Recommended Visual composer plugin
+
+Added full screen width page template
+
+===============================================================
+V 0.5
+
+Fixed text logo typography option
+
+Added WOFF font support
+
+Fixed thumb view srcset calculation bug
+
+Fixed js issue which was causing the loading effect to run for ever
+
+===============================================================
+
+V 0.4
+
+Added image widget
+
+Added option for blog post content width
+
+Added options for stylekits colors
+
+Added options to change the gallery type for each gallery
+
+Added options to handle responsive images in the blog post content
+
+Canonical redirect fix for blog on mainpage
+
+===============================================================
+
+V 0.3.1
+
+Responsive images - removed all the filters added priviously 
+and added only max_srcset_image_width
+
+Fixed the max mobile logo width setting 
+
+===============================================================
+
+V 0.3
+
+Hot fix open gallery elements
+
+Fixed warning that appears when a gallery image is missing
+
+Fixed large list view overflow issue
+
+Added a new slider type for the single gallery post
+
+Added new image srcset sizes and optimal image sizes  for 
+responsive content images
+
+===============================================================
+V 0.2
+
+added responsive images support for the single gallery popup
+
+added responsive images for the grid view

@@ -1,0 +1,4610 @@
+# Copyright (C) 2016 Flothemes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Mimal 0.7.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/mimal\n"
+"POT-Creation-Date: 2016-03-28 15:43:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: cmb2/CMB2.php:127 cmb2/includes/CMB2.php:113
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: cmb2/CMB2.php:319 cmb2/includes/CMB2.php:303
+msgid "Click to toggle"
+msgstr ""
+
+#: cmb2/example-functions.php:67
+msgid "Test Metabox"
+msgstr ""
+
+#: cmb2/example-functions.php:77 cmb2/example-functions.php:363
+msgid "Test Text"
+msgstr ""
+
+#: cmb2/example-functions.php:78 cmb2/example-functions.php:90
+#: cmb2/example-functions.php:98 cmb2/example-functions.php:106
+#: cmb2/example-functions.php:115 cmb2/example-functions.php:123
+#: cmb2/example-functions.php:137 cmb2/example-functions.php:144
+#: cmb2/example-functions.php:152 cmb2/example-functions.php:169
+#: cmb2/example-functions.php:178 cmb2/example-functions.php:186
+#: cmb2/example-functions.php:193 cmb2/example-functions.php:200
+#: cmb2/example-functions.php:214 cmb2/example-functions.php:227
+#: cmb2/example-functions.php:240 cmb2/example-functions.php:252
+#: cmb2/example-functions.php:261 cmb2/example-functions.php:269
+#: cmb2/example-functions.php:278 cmb2/example-functions.php:285
+#: cmb2/example-functions.php:298 cmb2/example-functions.php:364
+#: cmb2/example-functions.php:458 cmb2/example-functions.php:466
+#: cmb2/example-functions.php:473 cmb2/example-functions.php:480
+#: cmb2/example-functions.php:487 cmb2/example-functions.php:494
+#: cmb2/example-functions.php:501 cmb2/example-functions.php:539
+msgid "field description (optional)"
+msgstr ""
+
+#: cmb2/example-functions.php:89
+msgid "Test Text Small"
+msgstr ""
+
+#: cmb2/example-functions.php:97
+msgid "Test Text Medium"
+msgstr ""
+
+#: cmb2/example-functions.php:105
+msgid "Website URL"
+msgstr ""
+
+#: cmb2/example-functions.php:114
+msgid "Test Text Email"
+msgstr ""
+
+#: cmb2/example-functions.php:122
+msgid "Test Time"
+msgstr ""
+
+#: cmb2/example-functions.php:129 cmb2/example-functions.php:130
+msgid "Time zone"
+msgstr ""
+
+#: cmb2/example-functions.php:136
+msgid "Test Date Picker"
+msgstr ""
+
+#: cmb2/example-functions.php:143
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: cmb2/example-functions.php:151
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: cmb2/example-functions.php:168
+msgid "Test Money"
+msgstr ""
+
+#: cmb2/example-functions.php:177
+msgid "Test Color Picker"
+msgstr ""
+
+#: cmb2/example-functions.php:185
+msgid "Test Text Area"
+msgstr ""
+
+#: cmb2/example-functions.php:192
+msgid "Test Text Area Small"
+msgstr ""
+
+#: cmb2/example-functions.php:199
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: cmb2/example-functions.php:206
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: cmb2/example-functions.php:207
+msgid "This is a title description"
+msgstr ""
+
+#: cmb2/example-functions.php:213
+msgid "Test Select"
+msgstr ""
+
+#: cmb2/example-functions.php:219 cmb2/example-functions.php:232
+#: cmb2/example-functions.php:244
+msgid "Option One"
+msgstr ""
+
+#: cmb2/example-functions.php:220 cmb2/example-functions.php:233
+#: cmb2/example-functions.php:245
+msgid "Option Two"
+msgstr ""
+
+#: cmb2/example-functions.php:221 cmb2/example-functions.php:234
+#: cmb2/example-functions.php:246
+msgid "Option Three"
+msgstr ""
+
+#: cmb2/example-functions.php:226
+msgid "Test Radio inline"
+msgstr ""
+
+#: cmb2/example-functions.php:239
+msgid "Test Radio"
+msgstr ""
+
+#: cmb2/example-functions.php:251
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: cmb2/example-functions.php:260
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: cmb2/example-functions.php:268
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: cmb2/example-functions.php:277
+msgid "Test Checkbox"
+msgstr ""
+
+#: cmb2/example-functions.php:284
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: cmb2/example-functions.php:289
+msgid "Check One"
+msgstr ""
+
+#: cmb2/example-functions.php:290
+msgid "Check Two"
+msgstr ""
+
+#: cmb2/example-functions.php:291
+msgid "Check Three"
+msgstr ""
+
+#: cmb2/example-functions.php:297
+msgid "Test wysiwyg"
+msgstr ""
+
+#: cmb2/example-functions.php:305
+msgid "Test Image"
+msgstr ""
+
+#: cmb2/example-functions.php:306
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: cmb2/example-functions.php:312
+msgid "Multiple Files"
+msgstr ""
+
+#: cmb2/example-functions.php:313
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: cmb2/example-functions.php:320
+msgid "oEmbed"
+msgstr ""
+
+#: cmb2/example-functions.php:321
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+
+#: cmb2/example-functions.php:354
+msgid "About Page Metabox"
+msgstr ""
+
+#: cmb2/example-functions.php:385
+msgid "Repeating Field Group"
+msgstr ""
+
+#: cmb2/example-functions.php:393
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: cmb2/example-functions.php:395
+msgid "Entry {#}"
+msgstr ""
+
+#: cmb2/example-functions.php:396
+msgid "Add Another Entry"
+msgstr ""
+
+#: cmb2/example-functions.php:397
+msgid "Remove Entry"
+msgstr ""
+
+#: cmb2/example-functions.php:409
+msgid "Entry Title"
+msgstr ""
+
+#: cmb2/example-functions.php:416
+#: flo-options/ReduxCore/inc/fields/slides/field_slides.php:149
+#: flo-options/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: cmb2/example-functions.php:417
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: cmb2/example-functions.php:423
+msgid "Entry Image"
+msgstr ""
+
+#: cmb2/example-functions.php:429
+msgid "Image Caption"
+msgstr ""
+
+#: cmb2/example-functions.php:450
+msgid "User Profile Metabox"
+msgstr ""
+
+#: cmb2/example-functions.php:457
+msgid "Extra Info"
+msgstr ""
+
+#: cmb2/example-functions.php:465
+msgid "Avatar"
+msgstr ""
+
+#: cmb2/example-functions.php:472
+msgid "Facebook URL"
+msgstr ""
+
+#: cmb2/example-functions.php:479
+msgid "Twitter URL"
+msgstr ""
+
+#: cmb2/example-functions.php:486
+msgid "Google+ URL"
+msgstr ""
+
+#: cmb2/example-functions.php:493
+msgid "Linkedin URL"
+msgstr ""
+
+#: cmb2/example-functions.php:500
+msgid "User Field"
+msgstr ""
+
+#: cmb2/example-functions.php:523
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: cmb2/example-functions.php:538
+msgid "Site Background Color"
+msgstr ""
+
+#: cmb2/includes/CMB2_Ajax.php:37
+msgid "Please Try Again"
+msgstr ""
+
+#: cmb2/includes/CMB2_Ajax.php:133
+msgid "Remove Embed"
+msgstr ""
+
+#: cmb2/includes/CMB2_Ajax.php:137
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: cmb2/includes/CMB2_Field.php:952
+msgid "Add Group"
+msgstr ""
+
+#: cmb2/includes/CMB2_Field.php:953
+msgid "Remove Group"
+msgstr ""
+
+#: cmb2/includes/CMB2_Field.php:975 cmb2/includes/CMB2_Field.php:979
+msgid "None"
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:294
+msgid "Add Row"
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:353 cmb2/includes/CMB2_Types.php:1050
+#: cmb2/includes/CMB2_hookup.php:183
+#: flo-options/ReduxCore/inc/fields/background/field_background.php:321
+#: flo-options/ReduxCore/inc/fields/media/field_media.php:216
+#: flo-options/ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: flo-options/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: flo-options/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: flo-options/ReduxCore/inc/fields/slides/field_slides.php:133
+#: flo-options/ReduxCore/inc/fields/slides/field_slides.php:190
+#: flo-options/ReduxCore/meta.class.php:377
+msgid "Remove"
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:742 cmb2/includes/CMB2_Types.php:790
+msgid "No terms"
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:899
+msgid "Add or Upload Files"
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:957
+msgid "Add or Upload File"
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:1031 cmb2/includes/CMB2_hookup.php:182
+msgid "Remove Image"
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:1045 cmb2/includes/CMB2_hookup.php:184
+msgid "File:"
+msgstr ""
+
+#: cmb2/includes/CMB2_Types.php:1048 cmb2/includes/CMB2_hookup.php:185
+#: flo-options/ReduxCore/inc/import_export.php:104
+msgid "Download"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:128 cmb2/includes/CMB2_hookup.php:165
+msgid "Clear"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:129 flo-options/ReduxCore/framework.php:1823
+msgid "Default"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:130
+msgid "Select Color"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:131
+msgid "Current Color"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:155
+msgid "mm/dd/yy"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:156
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:157
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:158
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:159
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:160
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:161
+msgid "Next"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:162
+msgid "Prev"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:163
+msgid "Today"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:164 cmb2/includes/CMB2_hookup.php:174
+msgid "Done"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:168
+msgid "Choose Time"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:169
+msgid "Time"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:170
+msgid "Hour"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:171
+msgid "Minute"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:172
+msgid "Second"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:173
+msgid "Now"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:175
+msgid "hh:mm TT"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:181
+msgid "Use this file"
+msgstr ""
+
+#: cmb2/includes/CMB2_hookup.php:186
+msgid "Select / Deselect All"
+msgstr ""
+
+#: cmb2/includes/helper-functions.php:254
+msgid "Save"
+msgstr ""
+
+#: comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:69
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:70
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:71
+msgid "Add Comment"
+msgstr ""
+
+#: comments.php:75
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:81
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:87
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: content-contact.php:115 floshortcodes/custom-functions.php:520
+msgid "Name"
+msgstr ""
+
+#: content-contact.php:118 floshortcodes/custom-functions.php:525
+msgid "Email"
+msgstr ""
+
+#: content-contact.php:121 floshortcodes/custom-functions.php:530
+msgid "Phone"
+msgstr ""
+
+#: content-contact.php:124 floshortcodes/custom-functions.php:541
+msgid "Message"
+msgstr ""
+
+#: content-contact.php:131
+msgid "Submit form"
+msgstr ""
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:18
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-single.php:89
+msgid "Category:"
+msgstr ""
+
+#: content-single.php:105
+msgid "Tags:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: content.php:22
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content.php:29
+msgid "Pages:"
+msgstr ""
+
+#: flo-options/ReduxCore/actions.register.php:93
+msgid "Main Sidebar"
+msgstr ""
+
+#: flo-options/ReduxCore/actions.register.php:102
+msgid "Header Translation"
+msgstr ""
+
+#: flo-options/ReduxCore/actions.register.php:104
+msgid ""
+"This sidebar is intended for translation. For example if you have a site in "
+"several languages, then you can insert the language switcher widget here(of "
+"course you must install a translation plugin that offers such a widget). "
+msgstr ""
+
+#: flo-options/ReduxCore/actions.register.php:121
+msgid "Below Page content"
+msgstr ""
+
+#: flo-options/ReduxCore/actions.register.php:130
+msgid "Footer Full Content width top"
+msgstr ""
+
+#: flo-options/ReduxCore/actions.register.php:132
+msgid "This sidebar is located above  the 3 columns footer sidebars."
+msgstr ""
+
+#: flo-options/ReduxCore/actions.register.php:139
+msgid "Footer First"
+msgstr ""
+
+#: flo-options/ReduxCore/actions.register.php:149
+msgid "Footer Second"
+msgstr ""
+
+#: flo-options/ReduxCore/actions.register.php:158
+msgid "Footer Third"
+msgstr ""
+
+#: flo-options/ReduxCore/actions.register.php:167
+msgid "Footer Full Content width area bottom"
+msgstr ""
+
+#: flo-options/ReduxCore/actions.register.php:169
+msgid ""
+"This sidebar is located above the footer and below the 3 columns footer "
+"sidebars."
+msgstr ""
+
+#: flo-options/ReduxCore/actions.register.php:177
+msgid "Sidebar About"
+msgstr ""
+
+#: flo-options/ReduxCore/actions.register.php:187
+msgid "Footer bottom"
+msgstr ""
+
+#: flo-options/ReduxCore/actions.register.php:189
+msgid "This sidebar is located at the bottom of page."
+msgstr ""
+
+#: flo-options/ReduxCore/attached_images_manager.php:8
+msgid "Attached Images"
+msgstr ""
+
+#: flo-options/ReduxCore/attached_images_manager.php:37
+msgid "Add gallery images"
+msgstr ""
+
+#: flo-options/ReduxCore/attached_images_manager.php:41
+msgid "Reverse images order"
+msgstr ""
+
+#: flo-options/ReduxCore/attached_images_manager.php:42
+msgid "Delete all images"
+msgstr ""
+
+#: flo-options/ReduxCore/attached_images_manager.php:62
+#: flo-options/ReduxCore/attached_images_manager.php:131
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:67
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:172
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:224
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:461
+msgid "Delete image"
+msgstr ""
+
+#: flo-options/ReduxCore/attached_images_manager.php:108
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:136
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:198
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: flo-options/ReduxCore/attached_images_manager.php:110
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:138
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:200
+msgid "Add to gallery"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:201
+#: flo-options/ReduxCore/plugin-recommendations.php:79
+msgid "Install Required Plugins"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:202
+#: flo-options/ReduxCore/plugin-recommendations.php:80
+msgid "Install Plugins"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:203
+#: flo-options/ReduxCore/plugin-recommendations.php:81
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:204
+msgid "Something went wrong."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:205
+#: flo-options/ReduxCore/plugin-recommendations.php:83
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:206
+#: flo-options/ReduxCore/plugin-recommendations.php:84
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:207
+#: flo-options/ReduxCore/plugin-recommendations.php:85
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:208
+#: flo-options/ReduxCore/plugin-recommendations.php:86
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:209
+#: flo-options/ReduxCore/plugin-recommendations.php:87
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:210
+#: flo-options/ReduxCore/plugin-recommendations.php:88
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:211
+#: flo-options/ReduxCore/plugin-recommendations.php:89
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:212
+#: flo-options/ReduxCore/plugin-recommendations.php:90
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:213
+#: flo-options/ReduxCore/plugin-recommendations.php:91
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:214
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:215
+#: flo-options/ReduxCore/plugin-recommendations.php:93
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:216
+msgid "Return to the dashboard"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:217
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1821
+#: flo-options/ReduxCore/plugin-recommendations.php:94
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:218
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:219
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:220
+msgid "Dismiss this notice"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:505
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:2016
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:581
+msgid ""
+"The remote plugin package is does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:581
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:584
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:584
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1125
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1273
+msgid "Private Repository"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1128
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1277
+msgid "Pre-Packaged"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1133
+msgid "WordPress Repository"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1136
+msgid "Required"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1138
+msgid "Recommended"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1141
+msgid "Not Installed"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1143
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1230
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1251
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1294
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</"
+"a>"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1307
+msgid "Plugin"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1308
+msgid "Source"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1309
+msgid "Type"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1310
+msgid "Status"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1324
+msgid "Install"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1325
+msgid "Activate"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1422
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1520
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1807
+msgid "Install package not available."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1808
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1809
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1810
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1811
+msgid "Plugin install failed."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1812
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1820
+msgid "Plugin activation failed."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1922
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1923
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1926
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1927
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1927
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1934
+msgid "Show Details"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1927
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1934
+msgid "Hide Details"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1928
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1929
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1933
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1934
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1935
+msgid "All installations have been completed."
+msgstr ""
+
+#: flo-options/ReduxCore/class-tgm-plugin-activation.php:1936
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:87
+#: floshortcodes/custom-functions.php:342
+msgid "Default 30px"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:88
+#: floshortcodes/custom-functions.php:343
+msgid "No gutter"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:89
+#: floshortcodes/custom-functions.php:344
+msgid "Gutter 2px"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:90
+#: floshortcodes/custom-functions.php:345
+msgid "Gutter 5px"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:91
+#: floshortcodes/custom-functions.php:346
+msgid "Gutter 10px"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:92
+#: floshortcodes/custom-functions.php:347
+msgid "Gutter 20px"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:93
+msgid "Gutter 40px"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:94
+msgid "Gutter 50px"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:137
+msgid "Latest Posts"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:145
+msgid "Select Post Type"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:146
+msgid "Select post type"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:150
+msgid "Posts"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:151
+msgid "Galleries"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:152
+msgid "Pages"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:156
+msgid "Select Post Category"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:157
+#: flo-options/ReduxCore/cmb_config.php:168
+msgid ""
+"If no specific categories are selected in the dropdown below, all categories "
+"will be\n"
+"                displayed on the page."
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:167
+msgid "Select Gallery Category"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:177
+msgid "Select Pages"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:178
+msgid ""
+"If no specific pages are selected in the dropdown below, all pages will be\n"
+"                displayed on the page."
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:187
+#: flo-options/ReduxCore/cmb_config.php:293
+#: floshortcodes/custom-functions.php:296
+msgid "View type"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:188
+#: flo-options/ReduxCore/cmb_config.php:294
+msgid "Select view type"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:192
+#: flo-options/ReduxCore/cmb_config.php:298
+msgid "Grid view"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:193
+msgid "Grid View Original Size."
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:194
+msgid "List Full Width View"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:195
+msgid "List Content Width View"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:215
+#: flo-options/ReduxCore/widget/flo_popular.php:294
+#: flo-options/ReduxCore/widget/flo_view_types.php:387
+#: floshortcodes/custom-functions.php:319
+msgid "Number of posts"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:216
+msgid "Enter number of posts (numeric)"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:224
+#: flo-options/ReduxCore/widget/flo_popular.php:280
+#: flo-options/ReduxCore/widget/flo_view_types.php:371
+#: floshortcodes/custom-functions.php:326
+msgid "Number of columns"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:225
+msgid "Select number of columns."
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:236
+msgid "Gutter type"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:237
+msgid "Select gutter type (in px)."
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:245
+#: flo-options/ReduxCore/cmb_config.php:246
+msgid "Enable pagination ?"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:262
+#: flo-options/ReduxCore/cmb_config.php:286
+#: flo-options/ReduxCore/flo_main.php:1662 flo-options/config/config.php:2034
+msgid "Gallery"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:269
+#: flo-options/ReduxCore/cmb_config.php:270
+msgid "Select Gallery"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:299
+#: floshortcodes/custom-functions.php:300
+msgid "Original size"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:300
+msgid "Thums"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:301
+msgid "Thumbs full"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:412
+msgid "Contact Page Metabox"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:424
+msgid "Layout"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:428
+msgid "Full Width"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:429
+msgid "Layout Width"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:443
+msgid "Add your \"contact me\" title ."
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:454
+msgid "Add your \"contact me\" phone ."
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:463
+msgid "This field  required for contact form."
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:473
+msgid "Use the user's email addressin the \"from\" field "
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:507
+msgid "Thank you message!"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:508
+msgid "Add your \"thank you message.\" ."
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:525
+msgid "Header title types."
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:537
+msgid "Featured image and Title layout"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:542
+msgid "header full image"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:543
+msgid "small image centered"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:544
+msgid "only small image."
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:552
+msgid "Enable parallax ? "
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:556
+#: flo-options/ReduxCore/fields.class.php:496
+#: floshortcodes/custom-functions.php:440
+msgid "Yes"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:557
+#: flo-options/ReduxCore/fields.class.php:497
+#: floshortcodes/custom-functions.php:439
+msgid "No"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:574
+msgid "Title Color Settings"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:582
+msgid "Title Color"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:588
+msgid "Hover Background Color"
+msgstr ""
+
+#: flo-options/ReduxCore/cmb_config.php:589
+msgid ""
+"This option will be applied only when this post / page / gallery is inserted "
+"into another\n"
+"            page having \"List View\" layout"
+msgstr ""
+
+#: flo-options/ReduxCore/core/enqueue.php:372
+#: flo-options/ReduxCore/extensions/customizer/extension_customizer.php:618
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: flo-options/ReduxCore/core/enqueue.php:380
+#: flo-options/ReduxCore/extensions/customizer/extension_customizer.php:619
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: flo-options/ReduxCore/core/enqueue.php:388
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: flo-options/ReduxCore/core/enqueue.php:396
+#: flo-options/ReduxCore/extensions/customizer/extension_customizer.php:620
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: flo-options/ReduxCore/core/enqueue.php:403
+msgid "Please Wait"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/parsers.php:42
+#: flo-options/ReduxCore/demo_content/flo-importer/parsers.php:72
+#: flo-options/ReduxCore/demo_content/flo-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/parsers.php:84
+#: flo-options/ReduxCore/demo_content/flo-importer/parsers.php:89
+#: flo-options/ReduxCore/demo_content/flo-importer/parsers.php:279
+#: flo-options/ReduxCore/demo_content/flo-importer/parsers.php:465
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:132
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:141
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:192
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:196
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:205
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:1342
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:1346
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:1371
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:197
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:1347
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:213
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:1379
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:238
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:267
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:284
+msgid "Submit"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:309
+msgid "or create new user with login name:"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:312
+msgid "as a new user:"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:320
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:322
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:323
+msgid "- Select -"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:373
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:425
+msgid "Failed to import category %s"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:466
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:514
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:653
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:540
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:561
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:620
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:784
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:791
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:916
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:934
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:1033
+msgid "Custom WordPress Importer"
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:1040
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: flo-options/ReduxCore/demo_content/flo-importer/wordpress-importer.php:1411
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/custom_fonts/custom_fonts/field_custom_fonts.php:107
+#: flo-options/ReduxCore/extensions/custom_fonts/custom_fonts/field_custom_fonts.php:114
+msgid "Add Font"
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/custom_fonts/custom_fonts/field_custom_fonts.php:113
+msgid "No Custom Fonts Found"
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/custom_fonts/extension_custom_fonts.php:292
+#: flo-options/ReduxCore/extensions/custom_fonts/extension_custom_fonts.php:347
+#: flo-options/ReduxCore/extensions/custom_fonts/extension_custom_fonts.php:794
+#: flo-options/ReduxCore/extensions/custom_fonts/extension_custom_fonts.php:803
+msgid "Custom Fonts"
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/custom_fonts/extension_custom_fonts.php:294
+#: flo-options/ReduxCore/extensions/custom_fonts/extension_custom_fonts.php:350
+msgid "Fonts Squirrel"
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/custom_fonts/extension_custom_fonts.php:364
+msgid "Unable to delete font file(s)."
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/custom_fonts/extension_custom_fonts.php:448
+msgid "Attachment does not exist."
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/custom_fonts/extension_custom_fonts.php:533
+msgid "File type not recognized."
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/custom_fonts/extension_custom_fonts.php:557
+msgid "The font format .eot is not supported."
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/custom_fonts/extension_custom_fonts.php:576
+msgid "No valid font file was found."
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/custom_fonts/extension_custom_fonts.php:795
+msgid "<p class=\"description\"></p>"
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/customizer/extension_customizer.php:653
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/customizer/extension_customizer.php:654
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/customizer/extension_customizer.php:655
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/sidebars/sidebars/field_sidebars.php:70
+#: functions.php:113
+msgid "Sidebar"
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/sidebars/sidebars/field_sidebars.php:75
+#: flo-options/ReduxCore/extensions/sidebars/sidebars/field_sidebars.php:158
+#: flo-options/ReduxCore/extensions/social_networks/social_networks/field_social_networks.php:73
+#: flo-options/ReduxCore/extensions/social_networks/social_networks/field_social_networks.php:179
+#: flo-options/ReduxCore/inc/fields/slides/field_slides.php:73
+#: flo-options/ReduxCore/inc/fields/slides/field_slides.php:174
+msgid "New %s"
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/sidebars/sidebars/field_sidebars.php:147
+#: flo-options/ReduxCore/extensions/social_networks/social_networks/field_social_networks.php:122
+#: flo-options/ReduxCore/inc/fields/slides/field_slides.php:145
+#: flo-options/ReduxCore/inc/fields/slides/field_slides.php:200
+#: flo-options/ReduxCore/widget/about_image_block.php:124
+#: flo-options/ReduxCore/widget/flickr.php:55
+#: flo-options/ReduxCore/widget/flo_popular.php:275
+#: flo-options/ReduxCore/widget/flo_view_types.php:211
+#: flo-options/ReduxCore/widget/socialicons.php:52
+#: flo-options/ReduxCore/widget/tweets.php:59
+msgid "Title"
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/sidebars/sidebars/field_sidebars.php:151
+#: flo-options/ReduxCore/extensions/sidebars/sidebars/field_sidebars.php:204
+#: flo-options/ReduxCore/extensions/social_networks/social_networks/field_social_networks.php:172
+#: flo-options/ReduxCore/extensions/social_networks/social_networks/field_social_networks.php:256
+#: flo-options/ReduxCore/inc/fields/slides/field_slides.php:167
+#: flo-options/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/sidebars/sidebars/field_sidebars.php:207
+#: flo-options/ReduxCore/extensions/social_networks/social_networks/field_social_networks.php:261
+#: flo-options/ReduxCore/inc/fields/slides/field_slides.php:223
+msgid "Add %s"
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/social_networks/social_networks/field_social_networks.php:68
+#: flo-options/config/config.php:2244
+msgid "Social Networks"
+msgstr ""
+
+#: flo-options/ReduxCore/extensions/social_networks/social_networks/field_social_networks.php:197
+msgid "SET TITLE FOR NEW SOCIAL PROFILE"
+msgstr ""
+
+#: flo-options/ReduxCore/extra.class.php:9
+msgid "main sidebar"
+msgstr ""
+
+#: flo-options/ReduxCore/extra.class.php:326
+msgid "Sorry, no results found."
+msgstr ""
+
+#: flo-options/ReduxCore/extra.class.php:412
+#: flo-options/ReduxCore/fields.class.php:706
+#: flo-options/ReduxCore/fields.class.php:722
+#: flo-options/ReduxCore/fields.class.php:821
+#: flo-options/ReduxCore/fields.class.php:831
+#: flo-options/ReduxCore/meta.class.php:383
+#: flo-options/ReduxCore/meta.class.php:393
+#: flo-options/ReduxCore/meta.class.php:827
+msgid "Choose File"
+msgstr ""
+
+#: flo-options/ReduxCore/extra.class.php:589
+msgid "Start typing the post tile"
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:43
+#: flo-options/ReduxCore/framework.php:1879
+#: flo-options/ReduxCore/framework.php:1893
+msgid "See how it looks on the site"
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:352
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:72
+#: flo-options/config/config.php:308
+msgid "Import dummy data"
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:352
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:77
+#: flo-options/config/config.php:308
+msgid "Please be patient, the process may take some time."
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:353
+msgid ""
+"Before importing Dummy Data (demo content and settings) you must be aware "
+"that if you have an existing site, it will overwrite your current settings."
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:556
+msgid "Reset Value"
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:692
+msgid " Attached "
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:712
+msgid "Generate Key"
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:844
+msgid "January"
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:845
+msgid "February"
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:846
+msgid "March"
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:847
+msgid "April"
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:848
+msgid "May"
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:849
+msgid "June"
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:850
+msgid "July"
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:851
+msgid "August"
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:852
+msgid "September"
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:853
+msgid "October"
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:854
+msgid "November"
+msgstr ""
+
+#: flo-options/ReduxCore/fields.class.php:855
+msgid "December"
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1015 flo-options/ReduxCore/update.php:61
+msgid "Theme Updater"
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1015
+msgid "Theme Updates"
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1099 inc/extras.php:52
+msgid "Page %s"
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1231
+msgid "Subtitle"
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1532
+msgid " %s Made By Flothemes %s"
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1661
+msgid "Post"
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1678
+msgid "Error, name is required field. "
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1686
+msgid "Error, please enter a valid email address. "
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1692
+msgid "Contact name: "
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1695
+msgid "Contact email: "
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1698
+msgid "Phone: "
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1715
+msgid "New email from"
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1715
+msgid " Sent via contact form."
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1721
+msgid "Email was sent successfully "
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1810
+msgid "Older Comments"
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1814
+msgid "Newer Comments"
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1898
+#: flo-options/class.redux-plugin.php:410 flo-options/config/config.php:2314
+#: flo-options/config/config.php:2467
+msgid "Documentation"
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1899
+msgid "Quick Setup"
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1900
+msgid "Updates"
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1901
+msgid "News"
+msgstr ""
+
+#: flo-options/ReduxCore/flo_main.php:1902
+msgid "Support"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:230
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:230
+msgid "Redux Framework"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:234
+#: flo-options/ReduxCore/framework.php:238
+msgid "Options"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:1372
+#: flo-options/ReduxCore/framework.php:1373
+#: flo-options/ReduxCore/framework.php:3299
+#: flo-options/ReduxCore/framework.php:3378
+msgid "System Info"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:1676
+msgid "Enable"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:1681
+msgid "Disable"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:1687
+msgid "moving the mouse over"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:1689
+msgid "clicking"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:1693
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:1698
+msgid "Hints"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:1884
+msgid ""
+"See how it looks on the\n"
+"                                site"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:3036
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:3087
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:3118
+msgid "Expand"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:3120
+#: flo-options/ReduxCore/framework.php:3435
+msgid "Save Changes"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:3124
+#: flo-options/ReduxCore/framework.php:3439
+msgid "Reset Section"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:3126
+#: flo-options/ReduxCore/framework.php:3441
+msgid "Reset All"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:3132
+msgid "Search an option in here"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:3136
+#: flo-options/ReduxCore/framework.php:3446
+msgid "Working..."
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:3156
+msgid "Settings Imported!"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:3171
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:3185
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:3199
+msgid "Settings Saved!"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:3219
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:3227
+msgid "error(s) were found!"
+msgstr ""
+
+#: flo-options/ReduxCore/framework.php:3235
+msgid "warning(s) were found!"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/class.redux_filesystem.php:23
+msgid "Unable to modify required files. Please ensure that"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/class.redux_filesystem.php:25
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/class.redux_functions.php:231
+msgid "Dismiss"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/class.redux_themecheck.php:61
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your <strong>Redux</"
+"strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/debug.php:41
+#: flo-options/ReduxCore/inc/debug.php:69
+#: flo-options/ReduxCore/inc/debug.php:76
+#: flo-options/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/background/field_background.php:124
+#: flo-options/ReduxCore/inc/fields/color/field_color.php:73
+#: flo-options/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: flo-options/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/background/field_background.php:277
+#: flo-options/ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/background/field_background.php:314
+#: flo-options/ReduxCore/inc/fields/media/field_media.php:209
+#: flo-options/ReduxCore/inc/fields/slides/field_slides.php:126
+#: flo-options/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/border/field_border.php:125
+#: flo-options/ReduxCore/inc/fields/spacing/field_spacing.php:191
+#: floshortcodes/custom-functions.php:285
+msgid "All"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/border/field_border.php:138
+#: flo-options/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/border/field_border.php:145
+#: flo-options/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/border/field_border.php:152
+#: flo-options/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/border/field_border.php:159
+#: flo-options/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/border/field_border.php:173
+msgid "Border style"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/dimensions/field_dimensions.php:177
+msgid "Height"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/dimensions/field_dimensions.php:188
+#: flo-options/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: flo-options/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: flo-options/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/select/field_select.php:83
+#: flo-options/ReduxCore/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/select/field_select.php:134
+#: flo-options/ReduxCore/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/slides/field_slides.php:153
+#: flo-options/ReduxCore/inc/fields/slides/field_slides.php:207
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:626
+msgid "URL"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/switch/field_switch.php:41
+#: floshortcodes/custom-functions.php:359
+msgid "On"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/switch/field_switch.php:44
+#: floshortcodes/custom-functions.php:358
+msgid "Off"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:241
+msgid "Font Family"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:242
+msgid "Font family"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:268
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:269
+msgid "Backup Font Family"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:283
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:290
+msgid "Font style"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:284
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:290
+msgid "Style"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:330
+msgid "Font subsets"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:332
+msgid "Font Subsets"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:333
+msgid "Subsets"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:333
+msgid "Font script"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:350
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:351
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:352
+msgid "Text Align"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:373
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:374
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:375
+msgid "Text Transform"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:396
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:397
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:398
+msgid "Font Variant"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:416
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:417
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:418
+msgid "Text Decoration"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:445
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:446
+msgid "Font Size"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:461
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:462
+msgid "Font Size Mobile"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:475
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:476
+msgid "Font Size Tablet"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:489
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:490
+msgid "Line Height"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:503
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:504
+msgid "Line Height Mobile"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:517
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:518
+msgid "Line Height Tablet"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:531
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:532
+msgid "Word Spacing"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:545
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:546
+msgid "Letter Spacing"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:558
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:559
+msgid "Letter Spacing Mobile"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:571
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:572
+msgid "Letter Spacing Tablet"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:590
+msgid "Font Color"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:592
+msgid "Font color"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:1046
+msgid "Standard Fonts"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/fields/typography/field_typography.php:1147
+msgid "Google Webfonts"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/import_export.php:81
+msgid "Import Options"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/import_export.php:82
+msgid "Import from URL"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/import_export.php:94
+msgid "Import"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/import_export.php:97
+msgid "Export Options"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/import_export.php:104
+msgid "Copy Link"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/import_export.php:140
+#: flo-options/ReduxCore/inc/import_export.php:149
+#: flo-options/ReduxCore/inc/import_export.php:150
+#: flo-options/config/config.php:2291
+msgid "Import / Export"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:152
+#: flo-options/ReduxCore/inc/welcome.php:139
+msgid "Getting Started"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:152
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:153
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:154
+msgid "Redux Extensions"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:154
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:155
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/validation/color/validation_color.php:15
+#: flo-options/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: flo-options/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/validation/email/validation_email.php:16
+#: flo-options/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: flo-options/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:40
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:48
+#: flo-options/ReduxCore/inc/welcome.php:295
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:56
+msgid "Getting started with Redux Framework"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:64
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:135
+msgid "What's New"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:143
+msgid "Changelog"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:147
+msgid "Credits"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:164
+#: flo-options/ReduxCore/inc/welcome.php:333
+#: flo-options/ReduxCore/inc/welcome.php:471
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:167
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"<add description>"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:169
+#: flo-options/ReduxCore/inc/welcome.php:300
+#: flo-options/ReduxCore/inc/welcome.php:338
+#: flo-options/ReduxCore/inc/welcome.php:476 flo-options/config/config.php:217
+msgid "Version %s"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:174
+msgid "Some Feature"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:178
+#: flo-options/ReduxCore/inc/welcome.php:182
+#: flo-options/ReduxCore/inc/welcome.php:195
+#: flo-options/ReduxCore/inc/welcome.php:199
+#: flo-options/ReduxCore/inc/welcome.php:203
+#: flo-options/ReduxCore/inc/welcome.php:208
+#: flo-options/ReduxCore/inc/welcome.php:221
+#: flo-options/ReduxCore/inc/welcome.php:225
+#: flo-options/ReduxCore/inc/welcome.php:230
+msgid "Feature"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:190
+msgid "Some feature"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:217
+msgid "More Features"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:223
+#: flo-options/ReduxCore/inc/welcome.php:227
+#: flo-options/ReduxCore/inc/welcome.php:232
+msgid "description"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:238
+msgid "Additional Updates"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:242
+#: flo-options/ReduxCore/inc/welcome.php:246
+#: flo-options/ReduxCore/inc/welcome.php:252
+#: flo-options/ReduxCore/inc/welcome.php:256
+#: flo-options/ReduxCore/inc/welcome.php:262
+#: flo-options/ReduxCore/inc/welcome.php:266
+msgid "Cool thing"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:244
+#: flo-options/ReduxCore/inc/welcome.php:248
+#: flo-options/ReduxCore/inc/welcome.php:254
+#: flo-options/ReduxCore/inc/welcome.php:258
+#: flo-options/ReduxCore/inc/welcome.php:264
+#: flo-options/ReduxCore/inc/welcome.php:268
+msgid "cool thing description."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:277
+#: flo-options/ReduxCore/inc/welcome.php:316
+msgid "Go to Redux Framework"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:278
+msgid "View the Full Changelog"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:298
+#: flo-options/ReduxCore/inc/welcome.php:336
+#: flo-options/ReduxCore/inc/welcome.php:474
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"make your <description>"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:305
+msgid "Full Changelog"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:342
+msgid ""
+"Use the tips below to get started using Redux Framework. You'll be up and "
+"running in no time!"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:345
+msgid "Creating Your First Panel"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:350
+msgid "<a href=\"%s\">%s &rarr; Add New</a>"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:352
+msgid ""
+"The %s menu is your access point for all aspects of your Easy Digital "
+"Downloads product creation and setup. To create your first product, simply "
+"click Add New and then fill out the product details."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:354
+msgid "Product Price"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:356
+msgid ""
+"Products can have simple prices or variable prices if you wish to have more "
+"than one price point for a product. For a single price, simply enter the "
+"price. For multiple price points, click <em>Enable variable pricing</em> and "
+"enter the options."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:358
+msgid "Download Files"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:360
+msgid ""
+"Uploading the downloadable files is simple. Click <em>Upload File</em> in "
+"the Download Files section and choose your download file. To add more than "
+"one file, simply click the <em>Add New</em> button."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:366
+msgid "Display a Product Grid"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:373
+msgid "Flexible Product Grids"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:375
+msgid ""
+"The [downloads] shortcode will display a product grid that works with any "
+"theme, no matter the size. It is even responsive!"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:377
+msgid "Change the Number of Columns"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:379
+msgid ""
+"You can easily change the number of columns by adding the columns=\"x\" "
+"parameter:"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:385
+msgid "Additional Display Options"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:387
+msgid ""
+"The product grids can be customized in any way you wish and there is <a href="
+"\"%s\">extensive documentation</a> to assist you."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:392
+msgid "Purchase Buttons Anywhere"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:397
+msgid "The <em>[purchase_link]</em> Shortcode"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:399
+msgid ""
+"With easily accessible shortcodes to display purchase buttons, you can add a "
+"Buy Now or Add to Cart button for any product anywhere on your site in "
+"seconds."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:401
+msgid "Buy Now Buttons"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:403
+msgid ""
+"Purchase buttons can behave as either Add to Cart or Buy Now buttons. With "
+"Buy Now buttons customers are taken straight to PayPal, giving them the most "
+"frictionless purchasing experience possible."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:409
+msgid "Need Help?"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:413
+msgid "Phenomenal Support"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:417
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:425
+msgid "Stay Up to Date"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:429
+msgid "Get Notified of Extension Releases"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:433
+msgid "Get Alerted About New Tutorials"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:441
+msgid "Extensions for Everything"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:445
+msgid "Over 250 Extensions"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:447
+msgid ""
+"Add-on plugins are available that greatly extend the default functionality "
+"of Easy Digital Downloads. There are extensions for payment processors, such "
+"as Stripe and PayPal, extensions for newsletter integrations, and many, many "
+"more."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:449
+msgid "Visit the Extension Store"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:480
+msgid ""
+"Redux Framework is created by a worldwide team of developers who <something "
+"witty here>"
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:500
+msgid "No valid changlog was found."
+msgstr ""
+
+#: flo-options/ReduxCore/inc/welcome.php:539
+msgid "View %s"
+msgstr ""
+
+#: flo-options/ReduxCore/menu.class.php:238
+#: flo-options/ReduxCore/menu.class.php:242
+msgid "Home"
+msgstr ""
+
+#: flo-options/ReduxCore/meta.class.php:73
+msgid "To change attachment click on the icon"
+msgstr ""
+
+#: flo-options/ReduxCore/meta.class.php:365
+#: flo-options/ReduxCore/meta.class.php:366
+#: flo-options/ReduxCore/meta.class.php:400
+#: flo-options/ReduxCore/meta.class.php:401
+#: flo-options/ReduxCore/meta.class.php:459
+#: flo-options/ReduxCore/meta.class.php:460
+msgid "Edit post"
+msgstr ""
+
+#: flo-options/ReduxCore/options.class.php:83
+msgid "version"
+msgstr ""
+
+#: flo-options/ReduxCore/options.class.php:141
+msgid "Settings saved."
+msgstr ""
+
+#: flo-options/ReduxCore/options.class.php:187
+#: flo-options/ReduxCore/options.class.php:191
+msgid "Options reset"
+msgstr ""
+
+#: flo-options/ReduxCore/options.class.php:188
+msgid "Update Settings"
+msgstr ""
+
+#: flo-options/ReduxCore/plugin-recommendations.php:82
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: flo-options/ReduxCore/plugin-recommendations.php:92
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: flo-options/ReduxCore/plugin-recommendations.php:95
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:5
+msgid "Setup Wizard"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:9
+msgid "Step 1."
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:12
+msgid "Install the recommended plugins."
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:15
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:35
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:89
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:120
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:294
+msgid "This step is optional"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:18
+msgid ""
+"We recommend a few plugins which are necessary or useful. %s\n"
+"\t\t\t\tReview please the recommended plugins and install only those you "
+"need. %s\n"
+"\t\t\t\tIf you are not sure what you need, you can leave this for later. %s%s"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:22
+msgid "%sInstall and activate%s the recommended plugins"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:29
+msgid "Step 2."
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:32
+msgid "Import the demo data"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:39
+msgid ""
+"Here you can import the demo data to your site. Doing this will make your "
+"site look like the demo site.\n"
+"\t\t\t\tIt helps you to understand better the theme and build something "
+"similar to our demo quiker. Then you can edit the demo content \n"
+"\t\t\t\tand add your own. And after you are done, make sure to delete "
+"remaining demo Pages and Blog posts.%s%s\n"
+"\n"
+"\t\t\t\tImporting the demo data may take some time. Do not close this window "
+"until the process is done. %s%s\n"
+"\n"
+"\t\t\t\t%s Important: %s If you have an exiting website, %s do not import "
+"the dummy data%s, doing that will mix your content with the demo content and "
+"it will be a mess. %s %s\n"
+"\n"
+"\t\t\t\tBefore importing the content, please install and activate %s Widget "
+"Importer Exporter%s plugin if you want to import all the demo widgets. Also "
+"you may need to use %s Jetpack%s plugin with its %s Widget Visibility%s "
+"extension."
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:83
+msgid "Step 3."
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:86
+msgid "Home page"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:96
+msgid "Automatically create a home page called Home"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:97
+msgid "Set one of the existing pages as the Home page "
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:99
+msgid "Select the home page"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:102
+msgid "Set the home page"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:114
+msgid "Step 4."
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:117
+msgid "Blog page"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:127
+msgid "Automatically create a blog page called Blog"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:128
+msgid "Set one of the existing pages as the Blog page "
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:130
+msgid "Select the blog page"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:133
+msgid "Set the blog page"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:145
+msgid "Step 5."
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:148
+msgid "Menu options"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:161
+msgid "Automatically create the menu from existing pages"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:164
+msgid "Set one of the existing menus as the Primary menu "
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:190
+msgid "Set the primary menu"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:202
+msgid "Step 6."
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:205
+msgid "Quick styling."
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:211
+msgid "Upload the main logo image"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:227
+msgid "The logo was updated succesfully"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:234
+msgid "Upload custom favicon"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:252
+msgid ""
+"Please use 'ico' type media file If you don't have a favicon, you can "
+"generate one using %s this service %s"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:257
+msgid "The favicon updated succesfully"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:263
+msgid "Select the style kit"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:279
+msgid "The stylekit was updated succesfully"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:288
+msgid "Step 7."
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:291
+msgid "Permalinks structure."
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:298
+msgid "Enable pretty permalinks"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:300
+msgid "Set the permalinks to 'Post name' option"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:303
+msgid "For more permalinks options you can go %s here %s."
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup-content.php:314
+msgid "The permalinks structure was updated succesfully"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:52
+msgid "Flothemes quick setup wizard"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:52
+msgid "Flo quick setup"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:176
+msgid "There is already a Primary menu set, you can etid it from %s here %s"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:205
+msgid "The Main menu was created succesfully. You can edit it %s here %s"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:223
+msgid "The selected menu was set as the main menu. You can edit it %s here %s"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:225
+msgid "Invalid Menu creation method was selected. Try again please."
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:228
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:327
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:374
+msgid "Invalid action"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:307
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:317
+msgid "The home page was created succesfully. You can edit it %s here %s"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:319
+msgid "Invalid Home page"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:323
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:370
+msgid "Invalid data received. Check the selected options and try again"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:354
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:364
+msgid "The blog page was created succesfully. You can edit it %s here %s"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:366
+msgid "Invalid Blog page"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:489
+msgid "The style Kit was updated succesfully"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:491
+msgid "Wrong action"
+msgstr ""
+
+#: flo-options/ReduxCore/quick-setup/flo-quick-setup.php:507
+msgid "The permalinks were updated succesfully"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:52
+msgctxt "post type general name"
+msgid "Galleries"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:53
+msgctxt "post type singular name"
+msgid "Gallery"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:54
+msgctxt "Gallery"
+msgid "Add New"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:55
+msgid "Add New Gallery"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:56
+msgid "Edit Gallery"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:57
+msgid "New Gallery"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:58
+msgid "View Gallery"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:59
+msgid "Search Gallery"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:60
+#: flo-options/ReduxCore/resources.register.php:134
+msgid "Nothing found"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:61
+#: flo-options/ReduxCore/resources.register.php:135
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:77
+msgctxt "taxonomy general name"
+msgid "Gallery Categories"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:78
+msgctxt "taxonomy singular name"
+msgid "Gallery Category"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:79
+msgid "Search Categories"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:80
+msgid "All Categories"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:81
+msgid "Parent Category"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:82
+msgid "Parent Category:"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:83
+msgid "Edit Category"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:84
+msgid "Update Category"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:85
+msgid "Add New Category"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:86
+msgid "New Category Name"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:87
+msgid "Categories"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:97
+msgctxt "taxonomy general name"
+msgid "Gallery Tags"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:98
+msgctxt "taxonomy singular name"
+msgid "Gallery Tag"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:99
+msgid "Search Tags"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:100
+msgid "Popular Tags"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:101
+msgid "All Tags"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:104
+msgid "Edit Tag"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:105
+msgid "Update Tag"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:106
+msgid "Add New Tag"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:107
+msgid "New Tag Name"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:108
+msgid "Separate tags with commas"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:109
+msgid "Add or remove tags"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:110
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:111
+#: flo-options/config/config.php:218
+msgid "Tags"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:126
+msgctxt "post type general name"
+msgid "Slideshow"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:128
+msgctxt "Slideshow"
+msgid "Add New"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:129
+msgid "Add New Slideshow"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:130
+msgid "Edit Slideshow"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:131
+msgid "New Slideshow"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:132
+msgid "View Slideshow"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:133
+msgid "Search Slideshow"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:178
+msgid "Select layout type"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:182
+#: flo-options/ReduxCore/resources.register.php:256
+#: flo-options/ReduxCore/resources.register.php:300
+msgid "Select widget area."
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:186
+msgid "Add New Widget Area."
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:206
+msgid "Select slideshow"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:207
+msgid "Select menu position."
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:210
+msgid "Show page title"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:216
+msgid "Enable widget area located before the page content ?"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:260
+msgid "Add New vidget area."
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:265
+msgid "Enable widget area located below the page content ?"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:303
+msgid "Add New Widget Area"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:304
+msgid "Slideshow Settings"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:306
+msgid "Layout and Sidebars"
+msgstr ""
+
+#: flo-options/ReduxCore/resources.register.php:307
+msgid "Page Settings"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:9
+msgid "Slideshow Images"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:10
+msgid "Scroll down label"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:66
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:171
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:223
+msgid "Edit image"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:88
+msgid "Add Slideshow Images"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:91
+msgid "Add Clean Slide"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:401
+msgid "Edit Metadata"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:419
+msgid "Slide content type"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:445
+msgid "Slide logo"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:455
+msgid "Add Image"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:469
+msgid "Slide Title"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:485
+msgid "Slide Description"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:502
+msgid "Video URL"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:510
+msgid ""
+"If you want to add a video to the slide, add the video URL to this field "
+"(only Vimeo or Youtube URLs)."
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:518
+msgid "Text Color"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:525
+msgid "Title text color"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:531
+msgid "Title hover color"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:539
+msgid "Title text hover color"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:545
+msgid "Slide Background color"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:553
+msgid "Applied only to clean slides."
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:566
+msgid "Helpful Tips"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:566
+msgid "Saving and Exiting"
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:570
+msgid ""
+"To save the added data, close this modal window and click on Update post "
+"button. You can close this window by either clicking on the \"OK\" above or "
+"hitting the esc key on your keyboard."
+msgstr ""
+
+#: flo-options/ReduxCore/slideshow_attached_images_manager.php:632
+msgid ""
+"If you want to add a link to the slide title, add the URL to this field."
+msgstr ""
+
+#: flo-options/ReduxCore/update.php:56
+msgid "Flotheme key settings updated successfully."
+msgstr ""
+
+#: flo-options/ReduxCore/update.php:70
+msgid "Order ID"
+msgstr ""
+
+#: flo-options/ReduxCore/update.php:73
+msgid "Enter your purchase order number to receive theme updates"
+msgstr ""
+
+#: flo-options/ReduxCore/update.php:83
+msgid "Change log"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/about_image_block.php:7
+msgid " Image"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/about_image_block.php:8
+msgid "Image"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/about_image_block.php:130
+msgid "Image:"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/about_image_block.php:152
+msgid "Link URL"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/flickr.php:6
+#: flo-options/ReduxCore/widget/flickr.php:7
+msgid "Flickr Photos"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/flickr.php:16
+msgid "Photo Gallery"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/flickr.php:66
+msgid "Number of photos"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/flickr.php:72
+msgid "Showing Method"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/flickr.php:74
+msgid "Random Photo"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/flickr.php:75
+msgid "Latest Photo"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/flo_popular.php:8
+msgid "Flo Block Posts"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/flo_popular.php:9
+msgid "Flo Featured Posts"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/flo_popular.php:189
+#: flo-options/ReduxCore/widget/flo_view_types.php:218
+msgid "Post Type"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/flo_popular.php:259
+#: flo-options/ReduxCore/widget/flo_view_types.php:310
+msgid "Category"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/flo_popular.php:303
+#: flo-options/ReduxCore/widget/flo_view_types.php:392
+msgid "Gutter"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/flo_view_types.php:8
+#: flo-options/ReduxCore/widget/flo_view_types.php:9
+msgid "Flo Posts Types"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/flo_view_types.php:196
+msgid ""
+"This widget is recommended to be used only in full width sidebars where "
+"there is enough room to display the content."
+msgstr ""
+
+#: flo-options/ReduxCore/widget/flo_view_types.php:310
+msgid "Select pages "
+msgstr ""
+
+#: flo-options/ReduxCore/widget/flo_view_types.php:332
+msgid "View Type"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/socialicons.php:6
+#: flo-options/ReduxCore/widget/socialicons.php:7
+msgid "Social networks"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/socialicons.php:58
+msgid "All the social profile settings can be set %s here %s"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/tweets.php:5
+msgid "Latest tweets"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/tweets.php:63
+msgid "Twitter User Name"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/tweets.php:67
+msgid "Number of latest tweets to show"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/tweets.php:71
+msgid "Animated"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/tweets.php:76
+msgid ""
+"Now you need to do it to create an application in %s https://dev.twitter.com/"
+"apps %s and fill the requirements there. Once finished you will have your "
+"consumer key, consumer secret, access token and access token secret."
+msgstr ""
+
+#: flo-options/ReduxCore/widget/tweets.php:81
+msgid "Consumer key"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/tweets.php:86
+msgid "Consumer secret"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/tweets.php:91
+msgid "Access token"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/tweets.php:96
+msgid "Access token secret"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/tweets.php:353
+msgid "Please add the Twitter user name"
+msgstr ""
+
+#: flo-options/ReduxCore/widget/tweets.php:355
+msgid "Unable to read tweets !!!"
+msgstr ""
+
+#: flo-options/class.redux-plugin.php:306
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: flo-options/class.redux-plugin.php:306
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: flo-options/class.redux-plugin.php:407
+msgid "Repo"
+msgstr ""
+
+#: flo-options/class.redux-plugin.php:408
+msgid "Generator"
+msgstr ""
+
+#: flo-options/class.redux-plugin.php:409
+msgid "Issues"
+msgstr ""
+
+#: flo-options/class.redux-plugin.php:415
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: flo-options/class.redux-plugin.php:417
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: flo-options/config/config.php:111
+msgid "Section via hook"
+msgstr ""
+
+#: flo-options/config/config.php:112
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: flo-options/config/config.php:196
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: flo-options/config/config.php:205 flo-options/config/config.php:209
+msgid "Current theme preview"
+msgstr ""
+
+#: flo-options/config/config.php:216
+msgid "By %s"
+msgstr ""
+
+#: flo-options/config/config.php:223
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: flo-options/config/config.php:223
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: flo-options/config/config.php:286 functions.php:19
+msgid "Demo version Mimal"
+msgstr ""
+
+#: flo-options/config/config.php:286 functions.php:19
+msgid "Demo version Mimal blue"
+msgstr ""
+
+#: flo-options/config/config.php:286 functions.php:19
+msgid "Demo version Mimal red"
+msgstr ""
+
+#: flo-options/config/config.php:290
+msgid "Disable responsive images for all devices"
+msgstr ""
+
+#: flo-options/config/config.php:291
+msgid "Allow responsive images only for mobile devices"
+msgstr ""
+
+#: flo-options/config/config.php:292
+msgid "Allow responsive images for all devices"
+msgstr ""
+
+#: flo-options/config/config.php:296
+msgid "General Settings"
+msgstr ""
+
+#: flo-options/config/config.php:304
+msgid ""
+"Before importing the content, please install and activate %sWidget Importer "
+"Exporter%s plugin if you want to import all the demo widgets."
+msgstr ""
+
+#: flo-options/config/config.php:314
+msgid "Select the predefined stylesheet"
+msgstr ""
+
+#: flo-options/config/config.php:322
+msgid "Show wordpress admin bar"
+msgstr ""
+
+#: flo-options/config/config.php:333
+msgid "Tracking code"
+msgstr ""
+
+#: flo-options/config/config.php:337
+msgid ""
+"Paste your Google Analytics or other tracking code here.\n"
+"                                                It will be added into the "
+"footer of this theme"
+msgstr ""
+
+#: flo-options/config/config.php:344
+msgid "Custom Favicon"
+msgstr ""
+
+#: flo-options/config/config.php:345
+msgid ""
+"Please select 'ico' type media file. Make sure you allow uploading 'ico' "
+"type in General Settings -> Upload file types. If you don't have a favicon, "
+"you can generate one using <a href='http://www.convertico.com/'>this "
+"service</a>"
+msgstr ""
+
+#: flo-options/config/config.php:346
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: flo-options/config/config.php:356
+msgid "Enable Comments for pages"
+msgstr ""
+
+#: flo-options/config/config.php:362
+msgid "Blog page title"
+msgstr ""
+
+#: flo-options/config/config.php:363
+msgid "Blog"
+msgstr ""
+
+#: flo-options/config/config.php:368
+msgid "Search page title"
+msgstr ""
+
+#: flo-options/config/config.php:369
+msgid "Search results for: %"
+msgstr ""
+
+#: flo-options/config/config.php:374
+msgid "Gallery link url (gallery slug)"
+msgstr ""
+
+#: flo-options/config/config.php:380
+msgid ""
+"Set a custom permalink for your galleries. For example: portfolio. Example: "
+"http://yoursitename.com/portfolio"
+msgstr ""
+
+#: flo-options/config/config.php:386
+msgid "Gallery categories link url (gallery category slug)"
+msgstr ""
+
+#: flo-options/config/config.php:390
+msgid ""
+"Set a custom permalink for your galleries categories. For example: "
+"portfolio. Example: http://yoursitename.com/portfolio"
+msgstr ""
+
+#: flo-options/config/config.php:396
+msgid "Gallery tags link url(gallery tag slug)"
+msgstr ""
+
+#: flo-options/config/config.php:400
+msgid ""
+"Set a custom permalink for your galleries tags. For example: portfolio. "
+"Example: http://yoursitename.com/portfolio"
+msgstr ""
+
+#: flo-options/config/config.php:409
+msgid "Style Kit Options"
+msgstr ""
+
+#: flo-options/config/config.php:560
+msgid "Typography"
+msgstr ""
+
+#: flo-options/config/config.php:566
+msgid "General font"
+msgstr ""
+
+#: flo-options/config/config.php:567 flo-options/config/config.php:617
+#: flo-options/config/config.php:655 flo-options/config/config.php:691
+msgid "default font: \"Adobe Caslon Italic\""
+msgstr ""
+
+#: flo-options/config/config.php:616
+msgid "Page header \"Full image\" title typography"
+msgstr ""
+
+#: flo-options/config/config.php:654
+msgid "Page header \"Small image centered\" (hexagon) title typography"
+msgstr ""
+
+#: flo-options/config/config.php:690
+msgid "Page header title \"sub image\": typography"
+msgstr ""
+
+#: flo-options/config/config.php:726
+msgid "Blog List View / Single Blog Post : Titles"
+msgstr ""
+
+#: flo-options/config/config.php:727 flo-options/config/config.php:772
+#: flo-options/config/config.php:808 flo-options/config/config.php:869
+#: flo-options/config/config.php:909 flo-options/config/config.php:946
+#: flo-options/config/config.php:985 flo-options/config/config.php:1021
+#: flo-options/config/config.php:1057 flo-options/config/config.php:1093
+#: flo-options/config/config.php:1129 flo-options/config/config.php:1165
+#: flo-options/config/config.php:1203
+msgid "default font: \"Didot-Italic\""
+msgstr ""
+
+#: flo-options/config/config.php:771
+msgid "Grid view / Next post / Prev post / Related posts : Titles "
+msgstr ""
+
+#: flo-options/config/config.php:807
+msgid "Full Width List View : Title over image "
+msgstr ""
+
+#: flo-options/config/config.php:847
+msgid "Full Width List View : Text over image Color"
+msgstr ""
+
+#: flo-options/config/config.php:868
+msgid "Gallery Title "
+msgstr ""
+
+#: flo-options/config/config.php:908
+msgid "Meta"
+msgstr ""
+
+#: flo-options/config/config.php:945
+msgid "Open post button / Pagination "
+msgstr ""
+
+#: flo-options/config/config.php:984
+msgid "H1 "
+msgstr ""
+
+#: flo-options/config/config.php:1020
+msgid "H2"
+msgstr ""
+
+#: flo-options/config/config.php:1056
+msgid "H3"
+msgstr ""
+
+#: flo-options/config/config.php:1092
+msgid "H4"
+msgstr ""
+
+#: flo-options/config/config.php:1128
+msgid "H5"
+msgstr ""
+
+#: flo-options/config/config.php:1164
+msgid "H6 "
+msgstr ""
+
+#: flo-options/config/config.php:1202
+msgid "Sidebar Widget Title"
+msgstr ""
+
+#: flo-options/config/config.php:1240
+msgid "Input Placeholders"
+msgstr ""
+
+#: flo-options/config/config.php:1278
+msgid "Buttons"
+msgstr ""
+
+#: flo-options/config/config.php:1314
+msgid "Header Settings"
+msgstr ""
+
+#: flo-options/config/config.php:1321
+msgid "Logo / Menu : position"
+msgstr ""
+
+#: flo-options/config/config.php:1333
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: flo-options/config/config.php:1339
+msgid "Logo Type"
+msgstr ""
+
+#: flo-options/config/config.php:1348
+msgid "Upload the logo image"
+msgstr ""
+
+#: flo-options/config/config.php:1355
+msgid "Upload the mobile logo image"
+msgstr ""
+
+#: flo-options/config/config.php:1367
+msgid "Text logo"
+msgstr ""
+
+#: flo-options/config/config.php:1388
+msgid "Set typography for text logo."
+msgstr ""
+
+#: flo-options/config/config.php:1404
+msgid "Max Logo Width (in px)"
+msgstr ""
+
+#: flo-options/config/config.php:1414
+msgid "Max Logo mobile Width (in px)"
+msgstr ""
+
+#: flo-options/config/config.php:1428
+msgid "Enable Search in Header?"
+msgstr ""
+
+#: flo-options/config/config.php:1435
+msgid "Menu Typography"
+msgstr ""
+
+#: flo-options/config/config.php:1471
+msgid "Menu color"
+msgstr ""
+
+#: flo-options/config/config.php:1477
+msgid "Submenu Typography"
+msgstr ""
+
+#: flo-options/config/config.php:1512
+msgid "Slideshow"
+msgstr ""
+
+#: flo-options/config/config.php:1522
+msgid "Enable autoplay for main slideshow"
+msgstr ""
+
+#: flo-options/config/config.php:1529
+msgid "Slideshow autoplay speed."
+msgstr ""
+
+#: flo-options/config/config.php:1531 flo-options/config/config.php:1938
+#: flo-options/config/config.php:1947 flo-options/config/config.php:1959
+#: flo-options/config/config.php:1968 flo-options/config/config.php:1979
+#: flo-options/config/config.php:1988 flo-options/config/config.php:1999
+#: flo-options/config/config.php:2008 flo-options/config/config.php:2019
+msgid "This must be numeric."
+msgstr ""
+
+#: flo-options/config/config.php:1532
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: flo-options/config/config.php:1548
+msgid "Sliding effect"
+msgstr ""
+
+#: flo-options/config/config.php:1559
+msgid "Layout type"
+msgstr ""
+
+#: flo-options/config/config.php:1567
+msgid "Sliding speed (in ms)"
+msgstr ""
+
+#: flo-options/config/config.php:1575
+msgid "Slideshow logo image max-width."
+msgstr ""
+
+#: flo-options/config/config.php:1590
+msgid "Enable text/logo color change based on the slideshow image color"
+msgstr ""
+
+#: flo-options/config/config.php:1591
+msgid ""
+"This will affect the menu, social icons, search icon and copyright text\n"
+"                        color on top of the slideshow."
+msgstr ""
+
+#: flo-options/config/config.php:1598
+msgid "Upload a dark logo to show on light slides"
+msgstr ""
+
+#: flo-options/config/config.php:1599
+msgid ""
+"Usualy this is a dark Logo image which is used on the pages with slideshow "
+"and is displayed over light color images."
+msgstr ""
+
+#: flo-options/config/config.php:1606
+msgid "Upload a light logo to show on dark slides"
+msgstr ""
+
+#: flo-options/config/config.php:1607
+msgid ""
+"Usualy this is a light Logo image which is used on the pages with slideshow "
+"and is displayed over dark color images."
+msgstr ""
+
+#: flo-options/config/config.php:1614
+msgid "Slideshow Title - Typography"
+msgstr ""
+
+#: flo-options/config/config.php:1650
+msgid "Slideshow Description - Typography"
+msgstr ""
+
+#: flo-options/config/config.php:1690
+msgid "Content Settings"
+msgstr ""
+
+#: flo-options/config/config.php:1696
+msgid "Blog listing layout( view type)"
+msgstr ""
+
+#: flo-options/config/config.php:1697
+msgid "Choose your blog layout."
+msgstr ""
+
+#: flo-options/config/config.php:1705
+msgid "Archive listing layout( view type)"
+msgstr ""
+
+#: flo-options/config/config.php:1706
+msgid "Choose your archive layout."
+msgstr ""
+
+#: flo-options/config/config.php:1713
+msgid "Enter excerpt List View lenght"
+msgstr ""
+
+#: flo-options/config/config.php:1714
+msgid "It is used in list views."
+msgstr ""
+
+#: flo-options/config/config.php:1722
+msgid "Default Page Header Layout"
+msgstr ""
+
+#: flo-options/config/config.php:1723
+msgid "Choose your header page layout."
+msgstr ""
+
+#: flo-options/config/config.php:1730
+msgid "Change default WP gallery shortcode behaviour"
+msgstr ""
+
+#: flo-options/config/config.php:1731
+msgid ""
+"By enabling this option the layout and behaviour for the default WP gallery "
+"shortcode will be overwritten."
+msgstr ""
+
+#: flo-options/config/config.php:1742
+msgid "404 View Type"
+msgstr ""
+
+#: flo-options/config/config.php:1743
+msgid "Choose 404 view type."
+msgstr ""
+
+#: flo-options/config/config.php:1750
+msgid "404 Image"
+msgstr ""
+
+#: flo-options/config/config.php:1751
+msgid "Upload image background for page 404!"
+msgstr ""
+
+#: flo-options/config/config.php:1758
+msgid "Content 404 Background color"
+msgstr ""
+
+#: flo-options/config/config.php:1759
+msgid "Set background color for content 404!"
+msgstr ""
+
+#: flo-options/config/config.php:1767
+msgid "Content 404 Text color"
+msgstr ""
+
+#: flo-options/config/config.php:1768
+msgid "Set text color for content 404!"
+msgstr ""
+
+#: flo-options/config/config.php:1774
+msgid "Content 404"
+msgstr ""
+
+#: flo-options/config/config.php:1775
+msgid "Set content 404!"
+msgstr ""
+
+#: flo-options/config/config.php:1786
+msgid "Blog Post"
+msgstr ""
+
+#: flo-options/config/config.php:1791
+msgid "Blog Post content width (in px)"
+msgstr ""
+
+#: flo-options/config/config.php:1792
+msgid "Enter content width (in px), </br> Example: 1024  "
+msgstr ""
+
+#: flo-options/config/config.php:1800
+msgid "Show similar posts on single blog post page?"
+msgstr ""
+
+#: flo-options/config/config.php:1801
+msgid "With the \"section\" field you can create indent option sections."
+msgstr ""
+
+#: flo-options/config/config.php:1811
+msgid "Similar posts criteria"
+msgstr ""
+
+#: flo-options/config/config.php:1819
+msgid "Distance below post images"
+msgstr ""
+
+#: flo-options/config/config.php:1820
+msgid "Set the vertical distance between images inserted in the post content"
+msgstr ""
+
+#: flo-options/config/config.php:1831
+msgid ""
+"Show categories dropdown in header on page templste \"Latest Post Types\" "
+"and\n"
+"                        Single Blogpost"
+msgstr ""
+
+#: flo-options/config/config.php:1844
+msgid "Show Categories / Tags below the content of Single Blogpost"
+msgstr ""
+
+#: flo-options/config/config.php:1859
+msgid "Enable social sharing for posts"
+msgstr ""
+
+#: flo-options/config/config.php:1870
+msgid "Auto set featured images"
+msgstr ""
+
+#: flo-options/config/config.php:1871
+msgid ""
+"In case featured image is not uploaded to the post/gallery, the first of the "
+"uploaded images will be set as featured image."
+msgstr ""
+
+#: flo-options/config/config.php:1881
+msgid "Show featured image on single Blogpost "
+msgstr ""
+
+#: flo-options/config/config.php:1888
+msgid ""
+"You can control from here the responsive images introduced in WP 4.4. It is "
+"recommended to have the responsive images enabled, at least for the mobile "
+"devices. But this may affect image quality. If you disable the responsive "
+"images, then the quality will be good, but the performance will be affected, "
+"especially on mobile devices."
+msgstr ""
+
+#: flo-options/config/config.php:1899
+msgid ""
+"In order to enable one of the comments types you need to drag-and-drop the\n"
+"                        corresponding comments box to Enable section."
+msgstr ""
+
+#: flo-options/config/config.php:1920
+msgid "Facebook application ID"
+msgstr ""
+
+#: flo-options/config/config.php:1921
+msgid "This is necessary if you want to moderate the FB comments"
+msgstr ""
+
+#: flo-options/config/config.php:1930
+msgid "Image Sizes"
+msgstr ""
+
+#: flo-options/config/config.php:1937
+msgid "Grid view image width"
+msgstr ""
+
+#: flo-options/config/config.php:1946
+msgid "Grid view image height"
+msgstr ""
+
+#: flo-options/config/config.php:1958
+msgid "List view image width"
+msgstr ""
+
+#: flo-options/config/config.php:1967
+msgid "List view image height"
+msgstr ""
+
+#: flo-options/config/config.php:1978
+msgid "List view full width image width"
+msgstr ""
+
+#: flo-options/config/config.php:1987
+msgid "List view full width image height"
+msgstr ""
+
+#: flo-options/config/config.php:1998
+msgid "Page header featured image width"
+msgstr ""
+
+#: flo-options/config/config.php:2007
+msgid "Page header featured image height"
+msgstr ""
+
+#: flo-options/config/config.php:2018
+msgid "Single gallery thumbnail width&height"
+msgstr ""
+
+#: flo-options/config/config.php:2041
+msgid "Select gallery's number of columns"
+msgstr ""
+
+#: flo-options/config/config.php:2052
+msgid "Select Single Gallery Layout (View Type)"
+msgstr ""
+
+#: flo-options/config/config.php:2053
+msgid "Choose your Single Gallery layout."
+msgstr ""
+
+#: flo-options/config/config.php:2076
+msgid "Enable social sharing for galleries"
+msgstr ""
+
+#: flo-options/config/config.php:2091
+msgid "Slideshow sliding effect"
+msgstr ""
+
+#: flo-options/config/config.php:2099
+msgid "Slideshow sliding speed (in ms)"
+msgstr ""
+
+#: flo-options/config/config.php:2109
+msgid "Sidebars"
+msgstr ""
+
+#: flo-options/config/config.php:2114
+msgid "Add sidebars"
+msgstr ""
+
+#: flo-options/config/config.php:2119
+msgid "Add new Sidebar"
+msgstr ""
+
+#: flo-options/config/config.php:2129
+msgid "Footer Settings"
+msgstr ""
+
+#: flo-options/config/config.php:2134
+msgid "Copyright text"
+msgstr ""
+
+#: flo-options/config/config.php:2135
+msgid ""
+"Type here the Copyright text that will appear in the footer.To display the "
+"current year use \"%year%\""
+msgstr ""
+
+#: flo-options/config/config.php:2141
+msgid "Copyright text typography"
+msgstr ""
+
+#: flo-options/config/config.php:2174
+msgid "Footer Widget title"
+msgstr ""
+
+#: flo-options/config/config.php:2207
+msgid "Footer Widget text"
+msgstr ""
+
+#: flo-options/config/config.php:2249
+msgid "Add social"
+msgstr ""
+
+#: flo-options/config/config.php:2250
+msgid ""
+"NOTE! The font icons are avalible for the following services: facebook, "
+"twitter, gplus, yahoo, dribbble, linkedin, vimeo, youtube, tumblr, "
+"delicious, flickr, instagram, pinterest. So, if you use any of these "
+"services, it is not required to upload icons (if you leave the icon field "
+"blank the default font icons will be used). For any other social profiles "
+"you'll have to upload image icons."
+msgstr ""
+
+#: flo-options/config/config.php:2258
+msgid "Custom CSS"
+msgstr ""
+
+#: flo-options/config/config.php:2263
+msgid "CSS Code"
+msgstr ""
+
+#: flo-options/config/config.php:2264
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: flo-options/config/config.php:2279
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: flo-options/config/config.php:2280
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: flo-options/config/config.php:2281
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: flo-options/config/config.php:2286
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: flo-options/config/config.php:2292
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: flo-options/config/config.php:2326
+msgid "Theme Information 1"
+msgstr ""
+
+#: flo-options/config/config.php:2327 flo-options/config/config.php:2333
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: flo-options/config/config.php:2332
+msgid "Theme Information 2"
+msgstr ""
+
+#: flo-options/config/config.php:2337
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#. #-#-#-#-#  mimal.pot (Mimal 0.7.6)  #-#-#-#-#
+#. Author of the plugin/theme
+#: flo-options/config/config.php:2361
+msgid "Flothemes"
+msgstr ""
+
+#: flo-options/config/config.php:2362
+msgid "Flothemes Options"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:277
+msgid "Post type"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:278
+msgid "Select the post type you want to be displayed"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:283
+msgid "Taxonomy"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:284
+msgid ""
+"Select All to retrieve all the posts, or you can select a taxonomy beloging "
+"to a post type selected above."
+msgstr ""
+
+#: floshortcodes/custom-functions.php:290
+msgid "Term name "
+msgstr ""
+
+#: floshortcodes/custom-functions.php:291
+msgid ""
+"If taxonomy parameter is not set to All, then you should set here the name "
+"of the term from which you want to retrieve the posts. For example if "
+"\"category\" is selected as taxonomy, you can type here \"uncategorized\" to "
+"get posts from that category."
+msgstr ""
+
+#: floshortcodes/custom-functions.php:299
+msgid "Grid View"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:301
+msgid "List view"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:313
+msgid "Post in"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:337
+msgid "Use gutter"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:338
+msgid "Adds space between blocks"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:348
+msgid "Gutter 30px"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:353
+msgid "Masonry"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:354
+msgid ""
+"If enabled, it will place the elements in optimal position based on "
+"available vertical space"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:364
+msgid "Order by"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:370
+msgid "Order"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:373
+msgid "Descending"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:374
+msgid "Ascending"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:392
+msgid "Insert List Posts Shortcode"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:416
+msgid "Background color"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:422
+msgid "Text color"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:427
+msgid "Content width"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:428
+msgid ""
+"You will notice the difference only if the shortcode is used in a page using "
+"\"Full width\" template page."
+msgstr ""
+
+#: floshortcodes/custom-functions.php:436
+msgid "Add padding"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:437
+msgid "If this option is enabled then a padding will be added around the box."
+msgstr ""
+
+#: floshortcodes/custom-functions.php:444
+msgid "Add your content here"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:445
+msgid "Insert Box Shortcode"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:506
+msgid "plese use a valid email address"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:535
+msgid "Subject"
+msgstr ""
+
+#: floshortcodes/custom-functions.php:547
+msgid "Send Message"
+msgstr ""
+
+#: floshortcodes/grid_view.php:48 floshortcodes/list_view.php:129
+#: floshortcodes/orig-size.php:43
+msgid "Open"
+msgstr ""
+
+#: functions.php:78
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:86
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:91
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:108 inc/template-tags.php:114
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:110
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:116
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:126
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:143
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:145
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:147
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:149
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:149
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:151
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:151
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:153
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:153
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:175
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:179
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:181
+msgid "Archives"
+msgstr ""
+
+#: parts/comment.php:11
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: parts/social-sharing.php:6
+msgid "Share post"
+msgstr ""
+
+#: parts/social_links.php:6
+msgid "Social media"
+msgstr ""
+
+#: related-posts.php:7 related-posts.php:13
+msgid "RELATED POSTS"
+msgstr ""
+
+#: search.php:32
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Mimal"
+msgstr ""
+
+#. #-#-#-#-#  mimal.pot (Mimal 0.7.6)  #-#-#-#-#
+#. Theme URI of the plugin/theme
+#. #-#-#-#-#  mimal.pot (Mimal 0.7.6)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://flothemes.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Minimal, beautiful, and smooth"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Latest post types"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr ""

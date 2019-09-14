@@ -1,0 +1,245 @@
+.dashicons, .dashicons-before:before{
+    margin-top: -2px;
+    font-size: 25px;
+    margin-right: 10px;
+    color: #b89569;
+}
+.redux_field_th span.dashicons{
+    color: #b89569;
+}
+
+.redux-image-select {
+	max-width: 60px;
+	height: auto;
+	display: inline;
+}
+
+.redux-main tr.bottom-separator{
+    border-bottom: 2px dotted #888383;
+}
+
+.img-stylesheet .redux-image-select{
+	max-width: 450px;
+}
+.img-stylesheet .redux-container-image_select .redux-image-select{
+	margin-right: 10px !important;
+
+}
+.img-stylesheet .redux-image-select img, .img-stylesheet .redux-image-select{
+	width: 200px !important;
+}
+
+.no-fold  th{
+	padding-left: 0;
+	font-size: 15px;
+}
+
+/* Flo options page top banner */
+@font-face {
+	font-family: 'Conv_MarkPro';
+	src: url('../fonts/MarkPro.eot');
+	src: local('☺'), url('../fonts/MarkPro.woff') format('woff'), url('../fonts/MarkPro.ttf') format('truetype'), url('../fonts/MarkPro.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@media only screen and (max-width: 1124px){
+	.redux-sidebar .redux-group-menu li{
+		padding: 10px;
+	}
+}
+.redux-container #redux-header{
+	text-align: left;
+}
+
+#redux-header .display_header{
+	float: none;
+	display: inline-block;
+	width: 18%;
+}
+
+#redux-header .flo-dashboard-top{
+	display: inline-block;
+	width: 80%;
+	text-align: right;
+	position: relative;
+}
+#redux-header .flo-dashboard-top li{
+	font-family:'Conv_MarkPro',Sans-Serif;
+	display: inline-block;
+	padding: 25px 20px 20px 60px;
+	margin-bottom: 0px;
+	border-right: 1px solid #2e2e2e;
+	font-size: 10px;
+	text-transform: uppercase;
+	position: relative;
+	color: #c4c4c4;
+}
+#redux-header .flo-dashboard-top li:hover a{
+	color: #b89569;
+}
+
+#redux-header .flo-dashboard-top li a{
+	color: #c4c4c4;
+	text-decoration: none;
+}
+#redux-header .flo-dashboard-top li:last-child{
+	border-right: 0px;
+}
+
+#redux-header .flo-dashboard-top li a:before{
+	height: 20px;
+	width: 15px;
+	position: relative;
+	display: inline-block;
+	position: absolute;
+    content: "";
+    overflow: hidden;
+    display: block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left center;
+    margin-left: -37px;
+    margin-top: -1px;
+}
+.flo-dashboard-top li.doc a:before{
+	background-image: url(../img/top-bar-icons/documentation.png);
+}
+.flo-dashboard-top li.manage a:before{
+	background-image: url(../img/top-bar-icons/manage.png);
+}
+.flo-dashboard-top li.updated a:before{
+	background-image: url(../img/top-bar-icons/updates.png);
+}
+.flo-dashboard-top li.change-log a:before{
+	background-image: url(../img/top-bar-icons/changelog.png);
+}
+.flo-dashboard-top li.news a:before{
+	background-image: url(../img/top-bar-icons/news.png);
+}
+.flo-dashboard-top li.support a:before{
+	background-image: url(../img/top-bar-icons/support.png);
+}
+
+
+/*search in options*/
+ 
+#redux-option-filter {
+    width: 100%;
+    margin-top: 1px;
+    margin-bottom: 5px;
+    max-width: 300px;
+    position: absolute;
+    left: 335px;
+}
+
+#redux-sticky .clear-filter {
+    width: 31px;
+    margin-top: 8px;
+    margin-bottom: 5px;
+    position: absolute;
+    left: 640px;
+    text-align: center;
+    cursor: pointer;
+    display: none;
+}
+
+#redux-form-wrapper.search #redux-sticky .clear-filter {
+    display: block;
+}
+
+
+ .redux-container #redux-form-wrapper.search .redux-group-tab {
+    display: block !important;
+    margin: 0;
+}
+ 
+#redux-form-wrapper.search .redux-group-tab > *:not(table),
+.redux-container #redux-form-wrapper.search .redux-sidebar
+{
+    display: none;
+}
+
+#redux-form-wrapper.search .form-table > tbody > tr {
+    display: none;
+}
+
+#redux-form-wrapper.search .form-table > tbody > tr.in-front {
+    display: table-row;
+}
+
+#redux-form-wrapper.search tr.in-front div[data-pagename] {
+    position: relative;
+}
+
+#redux-form-wrapper.search tr.in-front div[data-pagename]:after {
+    content: attr(data-pagename);
+    
+    color: #CCCCCC;
+    font-size: 13px;
+    font-weight: 400;
+    position: absolute;
+    left: 15px;
+    bottom: 0;
+    text-transform: none;
+}
+
+#redux-form-wrapper.search tr.in-front div[data-pagename]:before {
+    content: 'in';
+    
+    color: #D9D9D9;
+    font-size: 13px;
+    font-weight: 400;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    text-transform: none;
+}
+
+#redux-form-wrapper.search {
+    background-color: white;
+}
+
+/*redux filter end*/
+
+
+@media only screen and (min-width: 1101px) and (max-width: 1290px){
+	#redux-header .flo-dashboard-top li{
+		padding: 20px 10px 20px 43px;
+	}
+	#redux-header .flo-dashboard-top{
+		width: 78%;
+	}
+	#redux-header .flo-dashboard-top li a:before{
+		margin-left: -30px;
+	}
+}
+@media only screen and (min-width: 1025px) and (max-width: 1100px){
+	#redux-header .flo-dashboard-top li{
+		padding: 20px 5px 20px 38px;
+	}
+	#redux-header .flo-dashboard-top{
+		width: 78%;
+	}
+	#redux-header .flo-dashboard-top li a:before{
+		margin-left: -30px;
+	}
+}
+@media only screen and (max-width: 1024px){
+	.redux-container #redux-header .display_header{
+		display: block;
+		margin: 0px;
+		float: none;
+		width: 100%;
+		text-align: center;
+	}
+	#redux-header .flo-dashboard-top{
+		display: block;
+		width: 100%;
+		text-align: center;
+	}
+	#redux-header .flo-dashboard-top li{
+		padding: 10px 10px 20px 50px;
+	}
+	
+}

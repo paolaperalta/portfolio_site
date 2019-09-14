@@ -1,0 +1,461 @@
+@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic,900,900italic);
+
+
+.redux-container {
+  background-color: white;
+  background-image: none;
+  font-family: 'Lato', sans-serif;
+  font-weight: normal;
+  /* ELEMENTS START */
+  /* ---------------------------------- */
+  /* ELEMENTS END */
+  /* HEADER START (палка Гузуна) */
+  /* ---------------------------------- */
+  /* HEADER END */
+  /* STICKY TOP START */
+  /* ---------------------------------- */
+  /* STICKY TOP END */
+  /* SIDEBAR START */
+  /* ---------------------------------- */
+  /* SIDEBAR END */
+  /* MAIN AREA (big left one) START */
+  /* ---------------------------------- */
+  /* MAIN AREA (big left one) END */
+  /* FOOTER START */
+  /* ------------------------ */
+  /* FOOTER END */ }
+  .redux-container input, .redux-container textarea {
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+    border: 1px solid #ebebeb;
+    text-shadow: none;
+    padding: 8px 14px;
+    font-weight: normal;
+    box-shadow: none;
+    -webkit-transition: background-color 333ms, border-color 333ms;
+            transition: background-color 333ms, border-color 333ms;
+    color: #868686;
+    font-size: 11px; }
+    .redux-container input:focus, .redux-container textarea:focus {
+      box-shadow: none; }
+    .redux-container input:focus, .redux-container textarea:focus {
+      border-color: #868686; }
+  .redux-container .button {
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+    border: 1px solid #ebebeb;
+    text-shadow: none;
+    padding: 8px 14px;
+    font-weight: normal;
+    box-shadow: none;
+    -webkit-transition: background-color 333ms, border-color 333ms;
+            transition: background-color 333ms, border-color 333ms;
+    color: #868686;
+    box-shadow: none;
+    font-size: 8px !important;
+    border-radius: 50px;
+    padding: 0 25px;
+    height: 32px;
+    line-height: 32px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: 1.5px; }
+    .redux-container .button:focus {
+      box-shadow: none; }
+    .redux-container .button:hover {
+      border: 1px solid #ebebeb;
+      background-color: white;
+      border-color: #222222; }
+  .redux-container .button-primary {
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+    border: 1px solid #ebebeb;
+    text-shadow: none;
+    padding: 8px 14px;
+    font-weight: normal;
+    box-shadow: none;
+    -webkit-transition: background-color 333ms, border-color 333ms;
+            transition: background-color 333ms, border-color 333ms;
+    color: #868686;
+    box-shadow: none;
+    font-size: 8px !important;
+    border-radius: 50px;
+    padding: 0 25px;
+    height: 32px;
+    line-height: 32px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    background-color: #b89569;
+    color: white;
+    border-color: transparent !important; }
+    .redux-container .button-primary:focus {
+      box-shadow: none; }
+    .redux-container .button-primary:hover {
+      border: 1px solid #ebebeb;
+      background-color: white;
+      border-color: #222222; }
+    .redux-container .button-primary:hover, .redux-container .button-primary:focus {
+      background-color: #222222; }
+  .redux-container .button-secondary {
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+    border: 1px solid #ebebeb;
+    text-shadow: none;
+    padding: 8px 14px;
+    font-weight: normal;
+    box-shadow: none;
+    -webkit-transition: background-color 333ms, border-color 333ms;
+            transition: background-color 333ms, border-color 333ms;
+    color: #868686;
+    box-shadow: none;
+    font-size: 8px !important;
+    border-radius: 50px;
+    padding: 0 25px;
+    height: 32px;
+    line-height: 32px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    background-color: white;
+    border: 1px solid #ebebeb; }
+    .redux-container .button-secondary:focus {
+      box-shadow: none; }
+    .redux-container .button-secondary:hover {
+      border: 1px solid #ebebeb;
+      background-color: white;
+      border-color: #222222; }
+    .redux-container .button-secondary:hover, .redux-container .button-secondary:focus {
+      background-color: white;
+      color: #222222; }
+  .redux-container #redux-header {
+    border-bottom-width: 0; }
+  .redux-container #redux-sticky #info_bar {
+    background-color: #ebebeb; }
+  .redux-container #redux-sticky .redux-action_bar [id^=flo_options]:last-child {
+    position: absolute;
+    left: 220px !important; }
+  .redux-container #redux-sticky input#redux-option-filter {
+    border-radius: 100px; }
+  .redux-container .redux-sidebar {
+    width: 225px; }
+    .redux-container .redux-sidebar .redux-group-menu .redux-group-tab-link-li {
+      padding: 0; }
+      .redux-container .redux-sidebar .redux-group-menu .redux-group-tab-link-li .redux-group-tab-link-a {
+        font-family: 'Lato', sans-serif;
+        font-weight: bolder;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+        font-size: 8.5px;
+        padding: 22px 0;
+        padding-left: 30px;
+        -webkit-transition: color 333ms;
+                transition: color 333ms; }
+      .redux-container .redux-sidebar .redux-group-menu .redux-group-tab-link-li .redux-group-tab-link-a .group_title{
+        padding-left: 45px;
+      }
+        .redux-container .redux-sidebar .redux-group-menu .redux-group-tab-link-li .redux-group-tab-link-a:hover {
+          color: #222222;
+          background-color: white; }
+        .redux-container .redux-sidebar .redux-group-menu .redux-group-tab-link-li .redux-group-tab-link-a i.el.el-icon-chevron-down:before {
+          background: none !important;
+          font-family: "flo_redux_icons";
+          color: #b89569; }
+        .redux-container .redux-sidebar .redux-group-menu .redux-group-tab-link-li .redux-group-tab-link-a span {
+          display: block;
+          position: initial;
+          width: auto;
+          background: initial;
+          border: initial;
+          box-shadow: none;
+          z-index: initial;
+          left: initial;
+          top: initial;
+          color: inherit;
+          padding: initial;
+          padding-left: inherit; }
+      .redux-container .redux-sidebar .redux-group-menu .redux-group-tab-link-li.activeChild .redux-group-tab-link-a {
+        background-color: #222222; }
+        .redux-container .redux-sidebar .redux-group-menu .redux-group-tab-link-li.activeChild .redux-group-tab-link-a:hover {
+          color: white; }
+      .redux-container .redux-sidebar .redux-group-menu .redux-group-tab-link-li.activeChild .subsection .redux-group-tab-link-li .redux-group-tab-link-a {
+        background-color: #222222 !important;
+        background-color: white;
+        color: white;
+        padding: 15px 22px; }
+        .redux-container .redux-sidebar .redux-group-menu .redux-group-tab-link-li.activeChild .subsection .redux-group-tab-link-li .redux-group-tab-link-a:hover {
+          background-color: #ebebeb; }
+      .redux-container .redux-sidebar .redux-group-menu .redux-group-tab-link-li.activeChild .subsection .redux-group-tab-link-li.active .redux-group-tab-link-a {
+        background-color: white;
+        background-color: #343434 !important;
+        color: #b89569; }
+        .redux-container .redux-sidebar .redux-group-menu .redux-group-tab-link-li.activeChild .subsection .redux-group-tab-link-li.active .redux-group-tab-link-a:after {
+          display: none; }
+  .redux-container .redux-main {
+    background-color: inherit;
+    margin-left: 225px; }
+    .redux-container .redux-main .redux-group-tab > h2 {
+      display: none; }
+    .redux-container .redux-main .redux-image-select img {
+      box-sizing: border-box;
+      outline: 2px solid transparent;
+      border-width: 10px;
+      border-color: white;
+      margin-bottom: 10px;
+      -webkit-transition: outline-color 333ms;
+              transition: outline-color 333ms;
+      outline-color: #ebebeb; }
+    .redux-container .redux-main .redux-image-select img:hover, .redux-container .redux-main .redux-image-select .redux-image-select-selected img {
+      outline-color: #b89569; }
+    .redux-container .redux-main .redux_field_th, .redux-container .redux-main td h4 {
+      font-family: 'Lato', sans-serif;
+      font-weight: bolder;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      font-size: 11px;
+      font-weight: bolder; }
+      .redux-container .redux-main .redux_field_th .description, .redux-container .redux-main td h4 .description {
+        text-transform: initial;
+        letter-spacing: 0.5px;
+        font-weight: normal;
+        font-size: 11px; }
+    .redux-container .redux-main label {
+      font-family: 'Lato', sans-serif;
+      font-weight: bolder;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      font-size: 8px;
+      color: #868686; }
+    .redux-container .redux-main .wp-picker-input-wrap > input[type="text"] {
+      height: 23px;
+      line-height: 23px; }
+    .redux-container .redux-main .wp-color-result {
+      border-radius: 0;
+      border-bottom: 0;
+      border: 1px solid #f1f1f1;
+      height: 23px;
+      box-shadow: none;
+      outline: 0;
+      position: relative;
+      padding-left: 23px; }
+      .redux-container .redux-main .wp-color-result:before {
+        content: " ";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 23px;
+        height: 23px;
+        box-sizing: border-box;
+        border: 4px solid white; }
+      .redux-container .redux-main .wp-color-result:after {
+        background-color: white;
+        border-left: 1px solid #f1f1f1;
+        height: 100%;
+        border-radius: 0;
+        font-family: 'Lato', sans-serif;
+        font-weight: bolder;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+        font-size: 8px;
+        font-weight: bolder;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #868686; }
+    .redux-container .redux-main .checkbox {
+      border: 1px solid #ebebeb;
+      border-radius: 50%;
+      box-shadow: none;
+      outline: 0;
+      background-color: transparent;
+      position: relative;
+      height: 16px;
+      width: 16px; }
+      .redux-container .redux-main .checkbox:before {
+        content: " ";
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+        width: 5px;
+        height: 5px;
+        border-radius: 50%;
+        background-color: white;
+        opacity: 0;
+        -webkit-transition: opacity 333ms;
+                transition: opacity 333ms;
+        margin: 0; }
+      .redux-container .redux-main .checkbox:checked {
+        background-color: #b89569;
+        border-color: transparent; }
+        .redux-container .redux-main .checkbox:checked:before {
+          opacity: 1; }
+    .redux-container .redux-main .buttonset {
+      height: 22px;
+      line-height: 22px;
+      position: relative;
+      -moz-user-select: none;
+      -khtml-user-select: none;
+      -webkit-user-select: none;
+      -o-user-select: none;
+      outline: none !important; }
+      .redux-container .redux-main .buttonset .ui-corner-left, .redux-container .redux-main .buttonset .ui-corner-right {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: inherit;
+        line-height: inherit;
+        padding: 0;
+        margin: 0 !important;
+        padding-left: 75px;
+        border-radius: 0;
+        border: 0;
+        background-color: transparent !important;
+        background-image: none !important;
+        box-shadow: none;
+        -webkit-transition: opacity 333ms, left 333ms;
+                transition: opacity 333ms, left 333ms; }
+        .redux-container .redux-main .buttonset .ui-corner-left:before, .redux-container .redux-main .buttonset .ui-corner-right:before {
+          content: " ";
+          position: absolute;
+          top: 0;
+          left: 0;
+          height: 22px;
+          width: 42px;
+          border-radius: 11px;
+          pointer-events: none; }
+        .redux-container .redux-main .buttonset .ui-corner-left:after, .redux-container .redux-main .buttonset .ui-corner-right:after {
+          content: " ";
+          position: absolute;
+          top: 50%;
+          -webkit-transform: translateY(-50%);
+                  transform: translateY(-50%);
+          border-radius: 50%;
+          width: 16px;
+          height: 16px;
+          background-color: white;
+          -webkit-transition: left 333ms;
+                  transition: left 333ms; }
+      .redux-container .redux-main .buttonset .ui-corner-left:after {
+        left: 3px; }
+      .redux-container .redux-main .buttonset .ui-corner-left:before {
+        background-color: #ebebeb; }
+      .redux-container .redux-main .buttonset .ui-corner-right:after {
+        left: 23px; }
+      .redux-container .redux-main .buttonset .ui-corner-right:before {
+        background-color: #b89569; }
+      .redux-container .redux-main .buttonset input[type=radio]:not(:checked) + label {
+        opacity: 0; }
+      .redux-container .redux-main .buttonset input[type=radio]:not(:checked) ~ label:after {
+        left: 23px; }
+      .redux-container .redux-main .buttonset input[type=radio]:checked + label {
+        pointer-events: none;
+        box-shadow: none !important; }
+    .redux-container .redux-main .redux-select-item {
+      outline: 0; }
+      .redux-container .redux-main .redux-select-item .select2-choice {
+        border-radius: 0;
+        background-color: white;
+        background-image: none;
+        border-color: #ebebeb;
+        padding: 6px 12px;
+        font-family: 'Lato', sans-serif;
+        font-weight: bolder;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+        font-size: 8px; }
+        .redux-container .redux-main .redux-select-item .select2-choice .select2-search-choice-close {
+          top: 50%;
+          -webkit-transform: translateY(-50%);
+                  transform: translateY(-50%);
+          right: 30px; }
+        .redux-container .redux-main .redux-select-item .select2-choice .select2-arrow {
+          border: 0;
+          background-image: none;
+          background-color: transparent; }
+          .redux-container .redux-main .redux-select-item .select2-choice .select2-arrow b {
+            background: none;
+            position: relative;
+            width: 10px;
+            background-image: none !important; }
+            .redux-container .redux-main .redux-select-item .select2-choice .select2-arrow b:after {
+              content: "\e803";
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              -webkit-transform: translate(-50%, -50%);
+                      transform: translate(-50%, -50%);
+              font-family: "flo_redux_icons";
+              font-size: 12px;
+              color: #222222; }
+    .redux-container .redux-main .ui-accordion > div {
+      padding: 0;
+      border-color: #ebebeb;
+      border-radius: 0 !important;
+      background: white !important;
+      background-image: none; }
+      .redux-container .redux-main .ui-accordion > div .redux-field {
+        border: 0;
+        border-radius: 0 !important; }
+      .redux-container .redux-main .ui-accordion > div .ui-accordion-header {
+        border: 0;
+        background-image: none !important;
+        background-color: transparent !important;
+        outline: 0 !important;
+        font-family: 'Lato', sans-serif;
+        font-weight: bolder;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+        text-transform: initial; }
+        .redux-container .redux-main .ui-accordion > div .ui-accordion-header .ui-accordion-header-icon {
+          left: initial;
+          right: 25px;
+          color: #222222; }
+        .redux-container .redux-main .ui-accordion > div .ui-accordion-header:before {
+          content: "\e802";
+          font-family: "flo_redux_icons";
+          position: absolute;
+          top: 50%;
+          -webkit-transform: translateY(-50%);
+                  transform: translateY(-50%);
+          left: 17px;
+          color: #222222; }
+      .redux-container .redux-main .ui-accordion > div .ui-accordion-content {
+        border: 0;
+        border-radius: 0 !important; }
+  .redux-container #redux-footer .redux-action_bar [id^=flo_options]:last-child {
+    position: absolute;
+    left: 250px !important; }
+
+.select2-drop {
+  border-color: #ebebeb !important;
+  border-radius: 0 !important;
+  box-shadow: none !important; }
+  .select2-drop .select2-search input {
+    border-color: #ebebeb !important;
+    background-gradient: none; }
+    .select2-drop .select2-search input, .select2-drop .select2-search input:focus, .select2-drop .select2-search input:hover {
+      box-shadow: none !important;
+      outline: 0 !important;
+      border-color: #868686 !important; }
+  .select2-drop .select2-result {
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-size: 10px; }
+    .select2-drop .select2-result.select2-highlighted {
+      background-color: #b89569; }
+
+.redux-sidebar .redux-group-menu li.active a, .redux-sidebar .redux-group-menu li.active a:hover,
+.redux-container .redux-sidebar .redux-group-menu .redux-group-tab-link-li.active  .redux-group-tab-link-a:hover{
+  background-color: #222222;
+}
+.admin-color-fresh .redux-sidebar .redux-group-menu li.active a,
+.redux-container .redux-sidebar .redux-group-menu .redux-group-tab-link-li.active  .redux-group-tab-link-a:hover{
+  color: #ffffff;
+}
